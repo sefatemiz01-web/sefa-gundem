@@ -1,17 +1,17 @@
 {
-  "attemptedAt": "2026-10-28T13:41:41.322679+03:00",
+  "attemptedAt": "2026-10-29T13:42:35.561832+03:00",
   "feeds": [
     {
       "name": "TRT Haber",
       "url": "https://www.trthaber.com/sondakika.rss",
       "ok": true,
-      "count": 43
+      "count": 48
     },
     {
       "name": "BBC Türkçe",
       "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
       "ok": true,
-      "count": 8
+      "count": 5
     },
     {
       "name": "DW Türkçe",
@@ -23,43 +23,43 @@
       "name": "Google Haberler · Türkiye hükümet Cumhurbaşkanı bakan açıklama",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+h%C3%BCk%C3%BCmet+Cumhurba%C5%9Fkan%C4%B1+bakan+a%C3%A7%C4%B1klama+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 26
+      "count": 21
     },
     {
       "name": "Google Haberler · TBMM meclis siyasi parti seçim",
       "url": "https://news.google.com/rss/search?q=TBMM+meclis+siyasi+parti+se%C3%A7im+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 11
+      "count": 6
     },
     {
       "name": "Google Haberler · Türkiye ekonomi politikası enflasyon bütçe",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+ekonomi+politikas%C4%B1+enflasyon+b%C3%BCt%C3%A7e+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 17
+      "count": 4
     },
     {
       "name": "Google Haberler · Türkiye önemli gelişmeler",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+%C3%B6nemli+geli%C5%9Fmeler+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 15
+      "count": 18
     },
     {
       "name": "Google Haberler · dünya uluslararası siyaset diplomasi savaş",
       "url": "https://news.google.com/rss/search?q=d%C3%BCnya+uluslararas%C4%B1+siyaset+diplomasi+sava%C5%9F+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "name": "Google Haberler · \"Zafer Partisi\"",
       "url": "https://news.google.com/rss/search?q=%22Zafer+Partisi%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 19
+      "count": 29
     },
     {
       "name": "Google Haberler · \"Ümit Özdağ\"",
       "url": "https://news.google.com/rss/search?q=%22%C3%9Cmit+%C3%96zda%C4%9F%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
       "ok": true,
-      "count": 13
+      "count": 8
     },
     {
       "name": "Google Haberler · \"Zafer Partisi\" yönetici eleştiri iddia faaliyet",
