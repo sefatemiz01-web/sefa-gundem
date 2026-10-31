@@ -1,17 +1,17 @@
 {
-  "attemptedAt": "2026-10-30T13:42:46.175207+03:00",
+  "attemptedAt": "2026-10-31T13:31:26.409368+03:00",
   "feeds": [
     {
       "name": "TRT Haber",
       "url": "https://www.trthaber.com/sondakika.rss",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "name": "BBC Türkçe",
       "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "name": "DW Türkçe",
@@ -22,68 +22,68 @@
     {
       "name": "Google Haberler · Türkiye hükümet Cumhurbaşkanı bakan açıklama",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+h%C3%BCk%C3%BCmet+Cumhurba%C5%9Fkan%C4%B1+bakan+a%C3%A7%C4%B1klama+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 21
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · TBMM meclis siyasi parti seçim",
       "url": "https://news.google.com/rss/search?q=TBMM+meclis+siyasi+parti+se%C3%A7im+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · Türkiye ekonomi politikası enflasyon bütçe",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+ekonomi+politikas%C4%B1+enflasyon+b%C3%BCt%C3%A7e+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · Türkiye önemli gelişmeler",
       "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+%C3%B6nemli+geli%C5%9Fmeler+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 6
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · dünya uluslararası siyaset diplomasi savaş",
       "url": "https://news.google.com/rss/search?q=d%C3%BCnya+uluslararas%C4%B1+siyaset+diplomasi+sava%C5%9F+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Zafer Partisi\"",
       "url": "https://news.google.com/rss/search?q=%22Zafer+Partisi%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 20
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Ümit Özdağ\"",
       "url": "https://news.google.com/rss/search?q=%22%C3%9Cmit+%C3%96zda%C4%9F%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 9
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Zafer Partisi\" yönetici eleştiri iddia faaliyet",
       "url": "https://news.google.com/rss/search?q=%22Zafer+Partisi%22+y%C3%B6netici+ele%C5%9Ftiri+iddia+faaliyet+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Mehmet Harun Yüksel\"",
       "url": "https://news.google.com/rss/search?q=%22Mehmet+Harun+Y%C3%BCksel%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Fazılcan Yurt\"",
       "url": "https://news.google.com/rss/search?q=%22Faz%C4%B1lcan+Yurt%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "Google Haberler · \"Akın Köstemir\"",
       "url": "https://news.google.com/rss/search?q=%22Ak%C4%B1n+K%C3%B6stemir%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ],
   "ok": true
