@@ -1,0 +1,2761 @@
+{
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T13:50:15.450235+03:00",
+  "feeds": [
+    {
+      "name": "TRT Haber",
+      "url": "https://www.trthaber.com/sondakika.rss",
+      "ok": true,
+      "count": 49
+    },
+    {
+      "name": "BBC Türkçe",
+      "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
+      "ok": true,
+      "count": 9
+    },
+    {
+      "name": "DW Türkçe",
+      "url": "https://rss.dw.com/rdf/rss-tur-all",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "Google Haberler · Türkiye hükümet Cumhurbaşkanı bakan açıklama",
+      "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+h%C3%BCk%C3%BCmet+Cumhurba%C5%9Fkan%C4%B1+bakan+a%C3%A7%C4%B1klama+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Google Haberler · TBMM meclis siyasi parti seçim",
+      "url": "https://news.google.com/rss/search?q=TBMM+meclis+siyasi+parti+se%C3%A7im+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "name": "Google Haberler · Türkiye ekonomi politikası enflasyon bütçe",
+      "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+ekonomi+politikas%C4%B1+enflasyon+b%C3%BCt%C3%A7e+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "Google Haberler · Türkiye önemli gelişmeler",
+      "url": "https://news.google.com/rss/search?q=T%C3%BCrkiye+%C3%B6nemli+geli%C5%9Fmeler+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Google Haberler · dünya uluslararası siyaset diplomasi savaş",
+      "url": "https://news.google.com/rss/search?q=d%C3%BCnya+uluslararas%C4%B1+siyaset+diplomasi+sava%C5%9F+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 6
+    },
+    {
+      "name": "Google Haberler · \"Zafer Partisi\"",
+      "url": "https://news.google.com/rss/search?q=%22Zafer+Partisi%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 35
+    },
+    {
+      "name": "Google Haberler · \"Ümit Özdağ\"",
+      "url": "https://news.google.com/rss/search?q=%22%C3%9Cmit+%C3%96zda%C4%9F%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 13
+    },
+    {
+      "name": "Google Haberler · \"Zafer Partisi\" yönetici eleştiri iddia faaliyet",
+      "url": "https://news.google.com/rss/search?q=%22Zafer+Partisi%22+y%C3%B6netici+ele%C5%9Ftiri+iddia+faaliyet+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "Google Haberler · \"Mehmet Harun Yüksel\"",
+      "url": "https://news.google.com/rss/search?q=%22Mehmet+Harun+Y%C3%BCksel%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "Google Haberler · \"Fazılcan Yurt\"",
+      "url": "https://news.google.com/rss/search?q=%22Faz%C4%B1lcan+Yurt%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "Google Haberler · \"Akın Köstemir\"",
+      "url": "https://news.google.com/rss/search?q=%22Ak%C4%B1n+K%C3%B6stemir%22+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr",
+      "ok": true,
+      "count": 0
+    }
+  ],
+  "items": [
+    {
+      "id": "21bc4392e755e1bb0671",
+      "title": "Bakan Şimşek: Önümüzdeki dönemde üretimdeki görünümün güçlenmesini bekliyoruz",
+      "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-onumuzdeki-donemde-uretimdeki-gorunumun-guclenmesini-bekliyoruz-962803.html",
+      "published": "2026-11-10T13:42:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"2026'da ticaret ortaklarımızdaki zayıf talebe rağmen ekonomimizde ılımlı büyüme devam ederken küresel talebin ve finansal koşulların iyileşmesiyle önümüzdeki dönemde üretimdeki görünümün güçlenmesini bekliyoruz\" dedi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-onumuzdeki-donemde-uretimdeki-gorunumun-guclenmesini-bekliyoruz-962803.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f8f83fddfabf74406c34",
+      "title": "Erdoğan: \"Gabar’da İki Yeni Petrol Sahasında Üretim Başladı\"",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdy00NlR4VkRoODVpTzF5NHRja1RocVYzUVBBX042U0J3U3hweDVKcG5Sc1h5UWtUeFBVSklJOFZUQ3Z1Zmtuc0ZmbHhqd1owdmVEU01FYXNkMy1SOXN6NjV6SE13N3k2RkNyaE1IVV9SaG9nOENLX2NCVDQ1d3FJN0E5YXQwSkNGY21rRF91b29BZ1lj?oc=5",
+      "published": "2026-11-10T13:27:00+03:00",
+      "source": "Medya Gazete",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Medya Gazete",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdy00NlR4VkRoODVpTzF5NHRja1RocVYzUVBBX042U0J3U3hweDVKcG5Sc1h5UWtUeFBVSklJOFZUQ3Z1Zmtuc0ZmbHhqd1owdmVEU01FYXNkMy1SOXN6NjV6SE13N3k2RkNyaE1IVV9SaG9nOENLX2NCVDQ1d3FJN0E5YXQwSkNGY21rRF91b29BZ1lj?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "8e9ab66e6e021e8380d7",
+      "title": "Cevdet Yılmaz: Sıfır Atık, küresel markaya dönüşmüş bir hareket",
+      "url": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-sifir-atik-kuresel-markaya-donusmus-bir-hareket-962802.html",
+      "published": "2026-11-10T13:18:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cumhurbaşkanı Yardımcısı Yılmaz,\" Sıfır Atık hareketi de buna vesile olan bir hareket olarak, dediğim gibi ülkemizden çıkmış, küresel bir markaya dönüşmüş durumda. Bununla da yine buradaki örnekleriyle birlikte dünyaya daha etkili bir şekilde bir ses vereceğimize inanıyorum.\" dedi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-sifir-atik-kuresel-markaya-donusmus-bir-hareket-962802.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "0c5ff13ff129e92ea2db",
+      "title": "COP31'DE İKİNCİ GÜN | Cumhurbaşkanı Yardımcısı Cevdet Yılmaz: ''Türkiye'de dünyanın geleceği konuşulacak''",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVpfMlN1a0hvVVg2Y0NVRmZpTWY1eUVOTUFjd2FpbHgzRnBoNWV0eHc5RkJ1c2dSWkdaR0RpZjhhUUp5T1RZZ2ZuRTQ0VVowSjh2RTZDMzdyaFlCVVp4ZEZmREtSV29zekxneUlJcVZQZW9SbUFOZGRmZFNuSXZFc1luQU9ZTUxLcV9hX0lfUDc5bzRWcElCNy1iS3hzeVQySEtEOFlnaUhiY25qOURYUG5UaE1pYk05YkkyRmVkalc1RmxBMExYb3RRcjhYbWZEeHp4ZmxvSXBUeTA?oc=5",
+      "published": "2026-11-10T13:17:14+03:00",
+      "source": "CNN Türk",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVpfMlN1a0hvVVg2Y0NVRmZpTWY1eUVOTUFjd2FpbHgzRnBoNWV0eHc5RkJ1c2dSWkdaR0RpZjhhUUp5T1RZZ2ZuRTQ0VVowSjh2RTZDMzdyaFlCVVp4ZEZmREtSV29zekxneUlJcVZQZW9SbUFOZGRmZFNuSXZFc1luQU9ZTUxLcV9hX0lfUDc5bzRWcElCNy1iS3hzeVQySEtEOFlnaUhiY25qOURYUG5UaE1pYk05YkkyRmVkalc1RmxBMExYb3RRcjhYbWZEeHp4ZmxvSXBUeTA?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7081f761eb22aec55a14",
+      "title": "Serdivan Başkanı Çelik ve Milletvekili Erdoğan, Bakan Kurum’la Görüştü",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTC1RNnBFMU9hSzdxcDgwOTg5OGVZRXZFdVNaRVVaNXJiTDNiWF9UR01iUnlDUWdFU0xrb3lZcFdnQjF5RW1zdXJpcjloZ2hrdkFxYlU4dTZlNENmaHNpRGZFS1dVVHFqNWM5TUhLRU1Hd21qbENkMTZQdl80Um5IWUVIalQ4ZjV3OEFxalBuR0lBa2xuNXZwNFRKUURIS09iVUN3dnNKYzBPMDBPSlJVWmlacjJOLTJ1?oc=5",
+      "published": "2026-11-10T13:13:00+03:00",
+      "source": "Adapazarı Akşam Haberleri Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Adapazarı Akşam Haberleri Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTC1RNnBFMU9hSzdxcDgwOTg5OGVZRXZFdVNaRVVaNXJiTDNiWF9UR01iUnlDUWdFU0xrb3lZcFdnQjF5RW1zdXJpcjloZ2hrdkFxYlU4dTZlNENmaHNpRGZFS1dVVHFqNWM5TUhLRU1Hd21qbENkMTZQdl80Um5IWUVIalQ4ZjV3OEFxalBuR0lBa2xuNXZwNFRKUURIS09iVUN3dnNKYzBPMDBPSlJVWmlacjJOLTJ1?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "39082c535907dca844d8",
+      "title": "Son Dakika Gelişmesi! Bakan Şimşek: Ticaret ortaklarımızdaki zayıf talebe rağmen ekonomide ılımlı büyüme sürerken küresel talep ve finansal koşulların iyileşmesiyle üretimin güçlenmesini bekliyoruz",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQNHllU3pWclJzS2lQa2lpVm9OdldQYkUwcXRkTlQ3Ymd0V0xNNkVKTkkxMVg2WWNvWk9UbkpSQTM4RWVCZ1JzUnVxSEdWcnZqRGFrT2ExSFJ4ZTRFT3pKTEUzRnJaVzRsYVVNNGFHYldSTlFqS1g2WlhNMU1VTFNJY3AtQkstUGxNcWxPZFVxWHRrVnlzcW5nRWdjdkN4ZThXWmlvaGY0bnhXS203azJwUzNaaU5mMF84elR0U2wtb0d2SnlLeGJfOThualZad2ZsSWhFN2FnX1k2YTl2dlhtZGJWbHVGYW9Tazhja3hPZmNITWlZSk5FcThpS0tJemdmeHFoNTE4OFJrXzV0Um1OU216U1NYdHZNR2ZrRzhSWUtTeE5LZ2RMeVVHd0VueWpHcVYw?oc=5",
+      "published": "2026-11-10T13:08:56+03:00",
+      "source": "Canlı Gaste",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Canlı Gaste",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQNHllU3pWclJzS2lQa2lpVm9OdldQYkUwcXRkTlQ3Ymd0V0xNNkVKTkkxMVg2WWNvWk9UbkpSQTM4RWVCZ1JzUnVxSEdWcnZqRGFrT2ExSFJ4ZTRFT3pKTEUzRnJaVzRsYVVNNGFHYldSTlFqS1g2WlhNMU1VTFNJY3AtQkstUGxNcWxPZFVxWHRrVnlzcW5nRWdjdkN4ZThXWmlvaGY0bnhXS203azJwUzNaaU5mMF84elR0U2wtb0d2SnlLeGJfOThualZad2ZsSWhFN2FnX1k2YTl2dlhtZGJWbHVGYW9Tazhja3hPZmNITWlZSk5FcThpS0tJemdmeHFoNTE4OFJrXzV0Um1OU216U1NYdHZNR2ZrRzhSWUtTeE5LZ2RMeVVHd0VueWpHcVYw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "aacf0963a56c4bb651ba",
+      "title": "Ümit Özdağ Mustafa Kemal’i andı: Sen rahat uyu Atam! Ümit Özdağ var",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjJXWUlXOEFBY0kzM21iU2ZCX1hkbkxnM1ZId3g0WUpLUkZTZWJvbWVXWktlRm5oRjVQR3dBSWgzb1VOek9oak1rQjAzazJtODF0eW1UWmpjczhaS0h4eEU0cGYxZVhyQVl6Tm53UXRVYmtWZUJBNENiVWRiMDFKOUNjWG9qZHI2amtzT0VzYlZ1TDdvTVYxRkN5dklOaWcxLUx0UkYwdHNzZ3RGTzR2ctIBrAFBVV95cUxOVVNaU2pCLXZiekhSbXdIdVN2Ni1ydlFJOVRDdWRjY0JBQ2xFbk9Lal9VUmxvUzlUQk5Cdk0tY2paZjJGVkJhWFlBR2dBSFkxeUUtSkVCb1dtSHA3Z1N1OUl4R1pZckFyNlRpQWJyR0liMTZNREMtTmlNeUo2bHhDc2ZCbXdCaFY3OFlENEY2WGlYTnhRWjlGb2I3dTlGelRoNXdPRnZiQm5QU2Vm?oc=5",
+      "published": "2026-11-10T13:08:05+03:00",
+      "source": "Yeni Akit Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Akit Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjJXWUlXOEFBY0kzM21iU2ZCX1hkbkxnM1ZId3g0WUpLUkZTZWJvbWVXWktlRm5oRjVQR3dBSWgzb1VOek9oak1rQjAzazJtODF0eW1UWmpjczhaS0h4eEU0cGYxZVhyQVl6Tm53UXRVYmtWZUJBNENiVWRiMDFKOUNjWG9qZHI2amtzT0VzYlZ1TDdvTVYxRkN5dklOaWcxLUx0UkYwdHNzZ3RGTzR2ctIBrAFBVV95cUxOVVNaU2pCLXZiekhSbXdIdVN2Ni1ydlFJOVRDdWRjY0JBQ2xFbk9Lal9VUmxvUzlUQk5Cdk0tY2paZjJGVkJhWFlBR2dBSFkxeUUtSkVCb1dtSHA3Z1N1OUl4R1pZckFyNlRpQWJyR0liMTZNREMtTmlNeUo2bHhDc2ZCbXdCaFY3OFlENEY2WGlYTnhRWjlGb2I3dTlGelRoNXdPRnZiQm5QU2Vm?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e6f37e7d48de0705dbc0",
+      "title": "Eski COP başkanlarından Bakan Kurum'a destek",
+      "url": "https://www.trthaber.com/haber/gundem/eski-cop-baskanlarindan-bakan-kuruma-destek-962800.html",
+      "published": "2026-11-10T13:05:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Antalyada düzenlenen COP31 konferansları kapsamında öndeki dönem COP Başkanları Türkiyenin başkanlığını desteklemek için ortak bildiri yayımladı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/eski-cop-baskanlarindan-bakan-kuruma-destek-962800.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7380763c7cc9db8cb3f1",
+      "title": "Bulgaristan'da yaklaşık 70 aracın karıştığı iki zincirleme trafik kazasında en az 10 kişi öldü",
+      "url": "https://www.trthaber.com/haber/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-iki-zincirleme-trafik-kazasinda-en-az-10-kisi-oldu-962801.html",
+      "published": "2026-11-10T12:59:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Bulgaristan'da Sofya'yı Burgaz'a bağlayan Trakya Otoyolu'nda yoğun sis nedeniyle meydana gelen iki ayrı zincirleme trafik kazasında 10'dan fazla kişi yaşamını yitirdi, 16 kişi yaralandı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-iki-zincirleme-trafik-kazasinda-en-az-10-kisi-oldu-962801.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "066f9f66b471a24b9a43",
+      "title": "Ankara'da kar yağışı",
+      "url": "https://www.trthaber.com/haber/turkiye/ankarada-kar-yagisi-962799.html",
+      "published": "2026-11-10T12:59:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Ankara'da kent merkezinde kar yağışı etkili oldu. Yüksek kesimlerde yeşil alanlar beyaza büründü.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/ankarada-kar-yagisi-962799.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "3e8a3031a1de61612d71",
+      "title": "Çelik ve Erdoğan, Bakan Kurum’la buluştu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlh4Q1FZWGJjNmVSQURSTGthZm8zS3lnYXlVUHVBNXBUcjREWkp0Q0taZVVIek9zZjhTV0RNNzJrT21Ucnh4OUVZcUpEMkd4d0VFMG9RNzlGNnF2ZzJkZ21takt3U0R6RkxDa1lFcnl0ckg2dTUyelFTS2I2STJib0RMWnlneUJQVGdz0gGQAUFVX3lxTFAtbkpOUmk5REQ1bXh4QjFLb1dFNkdCendubEI0N0d4VGZxRmNBVV9pMUdrZU1CY0pWT2ZibjUzS3BwYjRZMURld0d0dVRUYzFoNVl2UmwtaEFsRG40NmVBajVvVzhfcGl6X2U0ZXNNVG9SRUN0YlYtUEpLaGVUOF9PeFpzMllBS0Z4ZXdKenVFbg?oc=5",
+      "published": "2026-11-10T12:56:00+03:00",
+      "source": "Sakarya Yenigün Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Sakarya Yenigün Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlh4Q1FZWGJjNmVSQURSTGthZm8zS3lnYXlVUHVBNXBUcjREWkp0Q0taZVVIek9zZjhTV0RNNzJrT21Ucnh4OUVZcUpEMkd4d0VFMG9RNzlGNnF2ZzJkZ21takt3U0R6RkxDa1lFcnl0ckg2dTUyelFTS2I2STJib0RMWnlneUJQVGdz0gGQAUFVX3lxTFAtbkpOUmk5REQ1bXh4QjFLb1dFNkdCendubEI0N0d4VGZxRmNBVV9pMUdrZU1CY0pWT2ZibjUzS3BwYjRZMURld0d0dVRUYzFoNVl2UmwtaEFsRG40NmVBajVvVzhfcGl6X2U0ZXNNVG9SRUN0YlYtUEpLaGVUOF9PeFpzMllBS0Z4ZXdKenVFbg?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1e61324336c98dcbd1dd",
+      "title": "Bakan Bayraktar: Türkiye'nin enerji dönüşümü için 300 milyar dolar yatırım öngörüyoruz",
+      "url": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-turkiyenin-enerji-donusumu-icin-300-milyar-dolar-yatirim-ongoruyoruz-962798.html",
+      "published": "2026-11-10T12:53:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin enerji dönüşümü için 2040'a kadar yaklaşık 300 milyar dolarlık yatırım öngördüklerini açıkladı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-turkiyenin-enerji-donusumu-icin-300-milyar-dolar-yatirim-ongoruyoruz-962798.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "682e2f633f7dc8434eca",
+      "title": "Yeşil Mutabakat Eylem Planı ile 41 hedef için yol haritası çizildi",
+      "url": "https://www.trthaber.com/haber/ekonomi/yesil-mutabakat-eylem-plani-ile-41-hedef-icin-yol-haritasi-cizildi-962797.html",
+      "published": "2026-11-10T12:45:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türkiye'nin yeşil dönüşüm sürecine yön veren temel politika belgelerinden biri olan 20262030 dönemine ilişkin yeni Yeşil Mutabakat Eylem Planı'nda 11 ana başlık, 41 hedef ve 142 eylem yer alıyor.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/yesil-mutabakat-eylem-plani-ile-41-hedef-icin-yol-haritasi-cizildi-962797.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5aa33a7048157582d138",
+      "title": "Türkiye'nin COP ev sahipliği BM Genel Sekreteri Guterres'i etkiledi",
+      "url": "https://www.trthaber.com/haber/dunya/turkiyenin-cop-ev-sahipligi-bm-genel-sekreteri-guterresi-etkiledi-962796.html",
+      "published": "2026-11-10T12:41:00+03:00",
+      "source": "TRT Haber",
+      "summary": "BM Genel Sekreteri Antonio Guterres, Türkiye'nin COP organizasyonunun yüksek kalitesinden etkilendiğini belirterek ev sahipliğine övgüde bulundu.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/turkiyenin-cop-ev-sahipligi-bm-genel-sekreteri-guterresi-etkiledi-962796.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "a295b105c7bf4bd76a42",
+      "title": "Altında 26 yıllık reel getiri serisi ekimde sona erdi",
+      "url": "https://www.trthaber.com/haber/ekonomi/altinda-26-yillik-reel-getiri-serisi-ekimde-sona-erdi-962795.html",
+      "published": "2026-11-10T12:38:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Külçe altın, TÜFE ile indirgendiğinde ekimde yatırımcısına yıllık bazda yüzde 11,7 kaybettirdi ve 26 aylık serinin ardından ilk defa reel kayıp yaşattı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/altinda-26-yillik-reel-getiri-serisi-ekimde-sona-erdi-962795.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "88ec0dcd9280cd4c7fdb",
+      "title": "Dijital suçlarla mücadelede yapay zeka destekli sistemler devrede",
+      "url": "https://www.trthaber.com/haber/gundem/dijital-suclarla-mucadelede-yapay-zeka-destekli-sistemler-devrede-962794.html",
+      "published": "2026-11-10T12:30:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İçişleri Bakanlığı, dijital ortama taşınan suçlarla mücadelede yapay zeka, büyük veri analizi ve yerli yazılım teknolojilerinden yararlanıyor. AVCI sistemiyle dijital platformlardaki suç ağları analiz edilirken, DOLUNAY Projesi'yle dolandırıcılık olaylarına dakikalar içinde müdahale edilmesi hedefleniyor.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/dijital-suclarla-mucadelede-yapay-zeka-destekli-sistemler-devrede-962794.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1be5ef2908bcd1937c56",
+      "title": "Çevrim içi istismara yapay zeka takibi",
+      "url": "https://www.trthaber.com/haber/dunya/cevrim-ici-istismara-yapay-zeka-takibi-962792.html",
+      "published": "2026-11-10T12:12:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Güney Kore, çocuklara yönelik çevrim içi cinsel istismar içeriklerinin tespit edilip kaldırılması amacıyla yapay zeka destekli sistem kullandığını bildirdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/cevrim-ici-istismara-yapay-zeka-takibi-962792.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7634a695ff82849e5077",
+      "title": "İşgalci İsrail'in poligonları Filistinlileri tehdit ediyor",
+      "url": "https://www.trthaber.com/haber/dunya/isgalci-israilin-poligonlari-filistinlileri-tehdit-ediyor-962791.html",
+      "published": "2026-11-10T12:07:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Filistin Duvar ve Yerleşimle Mücadele Komisyonu, İsrail makamlarının işgal altındaki Batı Şeria'da 31 yerleşim noktasında atış poligonları kurulmasına imkan tanıyan planı onaylamasının Filistinlilerin güvenliğini tehdit ettiğini bildirdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/isgalci-israilin-poligonlari-filistinlileri-tehdit-ediyor-962791.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "85fa23b81e6cd30d21de",
+      "title": "Fransa, süpermarket saldırıları ile ilgili İran'a karşı tüm seçenekleri masada tutuyor",
+      "url": "https://www.trthaber.com/haber/dunya/fransa-supermarket-saldirilari-ile-ilgili-irana-karsi-tum-secenekleri-masada-tutuyor-962790.html",
+      "published": "2026-11-10T12:04:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Fransa Dışişleri Bakanı Jean Noel Barrot, 700den fazla süpermarketin soğutma sistemlerini hedef alan siber saldırının arkasında olduğunu duyurduğu İran Devrim Muhafızları Ordusuna karşı uygulanacak yaptırımlarda, hiçbir seçeneği göz ardı etmeyeceklerini bildirdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/fransa-supermarket-saldirilari-ile-ilgili-irana-karsi-tum-secenekleri-masada-tutuyor-962790.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "89cbfaebac66a0efdc2c",
+      "title": "Cumhurbaşkanı Erdoğan: Sivil anayasayı milletimize kazandıracağız",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUU9VUXZpcU1jSm5SaXNuaklMMTFnanFTY1FwTXFqdGFjRmZxLXFidUtNVmZmNkc5NG85cWttdWtldE9WZDNBZWRjYzJGSnZhRGR5NW1hbm5zN29MMkpRbVE2c0tCb2RuekVhUW5QTDFiVHlLUGpVeEc2aEw3c2NJaWJMbWpleWFoVThXQWFOWDR1ajZNRlFBa21vb252UWJJSk1xUnk1MFk?oc=5",
+      "published": "2026-11-10T12:02:00+03:00",
+      "source": "Yeni Şafak",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUU9VUXZpcU1jSm5SaXNuaklMMTFnanFTY1FwTXFqdGFjRmZxLXFidUtNVmZmNkc5NG85cWttdWtldE9WZDNBZWRjYzJGSnZhRGR5NW1hbm5zN29MMkpRbVE2c0tCb2RuekVhUW5QTDFiVHlLUGpVeEc2aEw3c2NJaWJMbWpleWFoVThXQWFOWDR1ajZNRlFBa21vb252UWJJSk1xUnk1MFk?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "0a9e23f0d028da92b678",
+      "title": "Antalya’daki COP31’de Bakan Kurum’dan açıklama",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLS0wNnJ0RlNVV2kzN2hVNlFmd0RIU1czYV92NFdSYVFySWEtbUIzODctRndUUGh6eWhUbm5TUHVlcFNuR1QwVURyRF9kcVAxTDU4Q1QxWTEwY0Z3TEh5LVRSdUpNaGY2YndSSnprWGJJT3doVDllQzRBU2o5U0RmU3N6dHNpWFMyNVZpTGVB?oc=5",
+      "published": "2026-11-10T11:59:46+03:00",
+      "source": "https://www.ensondakika.com.tr/",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "https://www.ensondakika.com.tr/",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLS0wNnJ0RlNVV2kzN2hVNlFmd0RIU1czYV92NFdSYVFySWEtbUIzODctRndUUGh6eWhUbm5TUHVlcFNuR1QwVURyRF9kcVAxTDU4Q1QxWTEwY0Z3TEh5LVRSdUpNaGY2YndSSnprWGJJT3doVDllQzRBU2o5U0RmU3N6dHNpWFMyNVZpTGVB?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f3404fffd8c4eb8c5ed9",
+      "title": "Cumhurbaşkanı Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk",
+      "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cumhuriyeti-yeniden-cumhurla-bulusturduk-962788.html",
+      "published": "2026-11-10T11:59:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gazi'nin mirasını istismar edenler, on yıllar boyunca bu millete tepeden baktılar. Zihinlerinde oluşturduğu Mustafa Kemal imgesi üzerinden cumhur ile Cumhuriyet'in arasını açtılar. Gazi Mustafa Kemal'in 'kimsesizlerin kimsesi' olarak nitelendirdiği Cumhuriyeti yeniden cumhurla buluşturduk\" dedi.",
+      "summaryLimited": false,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cumhuriyeti-yeniden-cumhurla-bulusturduk-962788.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "b98992f17387a2981774",
+      "title": "Bakan Uraloğlu: Türkiye, karbon akreditasyonlu havalimanı sayısında dünya ikincisi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWF3RHpQMk1qSk41NGYtLWUwU0JDS2xHaEJjSUp0XzNWT3JQRG1xYVNSb3Nab1daU2djd3laSXB6SmlwZWRMbnNRS1ZKQzNlRDZBR3piZzNJWVFQQkQxYUxRdVZsTXFvbEpDWlZwZk9XenY2M3RFblpUNHhXREtYNzZrVG83TGtmWl92bmctbDV6OTk0WGZHZ1dXeVlvVnZBYTF6VWIweXJqbV82ZUk4Y1p3bVZnTkJhcDJmTWVB?oc=5",
+      "published": "2026-11-10T11:56:55+03:00",
+      "source": "Yeni Şafak",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWF3RHpQMk1qSk41NGYtLWUwU0JDS2xHaEJjSUp0XzNWT3JQRG1xYVNSb3Nab1daU2djd3laSXB6SmlwZWRMbnNRS1ZKQzNlRDZBR3piZzNJWVFQQkQxYUxRdVZsTXFvbEpDWlZwZk9XenY2M3RFblpUNHhXREtYNzZrVG83TGtmWl92bmctbDV6OTk0WGZHZ1dXeVlvVnZBYTF6VWIweXJqbV82ZUk4Y1p3bVZnTkJhcDJmTWVB?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "40bc03197d1d7a668236",
+      "title": "GÖKTÜRK1, Anıtkabir'i görüntüledi",
+      "url": "https://www.trthaber.com/haber/gundem/gokturk-1-anitkabiri-goruntuledi-962787.html",
+      "published": "2026-11-10T11:55:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Milli Savunma Bakanlığı MSB, Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla Anıtkabir'in GÖKTÜRK1 uydusuyla çekilen görüntüsünü paylaştı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/gokturk-1-anitkabiri-goruntuledi-962787.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1a1d7185c401bb280bab",
+      "title": "İran'dan ABD savaş ve yaptırımlarla sonuç alamaz mesajı",
+      "url": "https://www.trthaber.com/haber/dunya/irandan-abd-savas-ve-yaptirimlarla-sonuc-alamaz-mesaji-962793.html",
+      "published": "2026-11-10T11:54:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD'nin İran'a karşı savaş veya yaptırımlarla sonuç alamayacağını belirterek, tek çözüm yolunun diplomasi olduğunu ve bunun İran'ın sunduğu şartların kabul edilmesine bağlı bulunduğunu söyledi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/irandan-abd-savas-ve-yaptirimlarla-sonuc-alamaz-mesaji-962793.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "39072fa636d7e29d1995",
+      "title": "Brent petrol 90 doların altına geriledi",
+      "url": "https://www.trthaber.com/haber/dunya/brent-petrol-90-dolarin-altina-geriledi-962786.html",
+      "published": "2026-11-10T11:54:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Brent petrolün ocak vadeli varil fiyatı, ABD ile İran arasındaki gerilimin azalacağına yönelik beklentinin etkisiyle 90 doların altına geriledi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/brent-petrol-90-dolarin-altina-geriledi-962786.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "9430da283147f81c3ea8",
+      "title": "Almanyada aşırı soğuklarda gaz kıtlığı uyarısı",
+      "url": "https://www.trthaber.com/haber/dunya/almanyada-asiri-soguklarda-gaz-kitligi-uyarisi-962785.html",
+      "published": "2026-11-10T11:50:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Almanya Gaz Depolama Girişimi INES, yaklaşan kış dönemi öncesinde doğal gaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/almanyada-asiri-soguklarda-gaz-kitligi-uyarisi-962785.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5a0866841cd6e48d9448",
+      "title": "Elleçlenen yük miktarında rekor seviyelerin korunması hedefleniyor",
+      "url": "https://www.trthaber.com/haber/ekonomi/elleclenen-yuk-miktarinda-rekor-seviyelerin-korunmasi-hedefleniyor-962784.html",
+      "published": "2026-11-10T11:42:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türk limanları, elleçlenen yük miktarlarında geçen yıl kırdığı rekorları bu yıl sonunda ve 2027'de de sürdürmeyi hedefliyor.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/elleclenen-yuk-miktarinda-rekor-seviyelerin-korunmasi-hedefleniyor-962784.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "632905e1541265aea4c5",
+      "title": "76 ildeki uyuşturucu operasyonlarında 1204 şüpheli tutuklandı",
+      "url": "https://www.trthaber.com/haber/turkiye/76-ildeki-uyusturucu-operasyonlarinda-1204-supheli-tutuklandi-962783.html",
+      "published": "2026-11-10T11:40:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İçişleri Bakanlığı, 76 ilde uyuşturucu satıcılarına yönelik son iki haftada düzenlenen operasyonlarda yakalanan 2 bin 152 şüpheliden 1204'ünün tutuklandığını belirtti.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/76-ildeki-uyusturucu-operasyonlarinda-1204-supheli-tutuklandi-962783.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d519d117e45e3ba6374c",
+      "title": "AK Parti Sözcüsü Çelik: COP31, küresel adalet ve ortak gelecek adına tarihi bir eşiktir",
+      "url": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-cop31-kuresel-adalet-ve-ortak-gelecek-adina-tarihi-bir-esiktir-962782.html",
+      "published": "2026-11-10T11:31:00+03:00",
+      "source": "TRT Haber",
+      "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Antalya'da gerçekleştirilecek COP31, küresel adalet ve ortak gelecek adına tarihi bir eşiktir.\" ifadesini kullandı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-cop31-kuresel-adalet-ve-ortak-gelecek-adina-tarihi-bir-esiktir-962782.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "972dee84081aa256926f",
+      "title": "Cafer Mahiroğlu soruşturmasında ikinci dalga: 8 kişi için gözaltı kararı verildi",
+      "url": "https://www.bbc.com/turkce/articles/cr78p8llqqzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T11:25:30+03:00",
+      "source": "BBC Türkçe",
+      "summary": "Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmada sekiz şüpheli hakkında daha gözaltı kararı verildi. Başsavcılık yedi şüphelinin gözaltına alındığını, bir kişinin ise firari olduğunu duyurdu.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2211/live/4114ab00-dcde-11f1-a8e1-e3454837ffc6.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cr78p8llqqzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e07f5aeb18191572e829",
+      "title": "Emine Erdoğan'ın COP31'de gündemi",
+      "url": "https://www.trthaber.com/haber/gundem/emine-erdoganin-cop31de-gundemi-962781.html",
+      "published": "2026-11-10T11:24:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'ndaki COP31 gündemi \"sıfır atık ve iklim değişikliğiyle mücadele\" olacak.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/emine-erdoganin-cop31de-gundemi-962781.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7a0cb9a127fffd2d3c30",
+      "title": "Aliyev, İzmir'deki patlama nedeniyle Cumhurbaşkanı Erdoğan'a taziye mesajı gönderdi",
+      "url": "https://www.trthaber.com/haber/dunya/aliyev-izmirdeki-patlama-nedeniyle-cumhurbaskani-erdogana-taziye-mesaji-gonderdi-962780.html",
+      "published": "2026-11-10T11:22:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev'in, İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada hayatını kaybedenler için Cumhurbaşkanı Recep Tayyip Erdoğan'a taziye mesajı gönderdiği bildirildi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/aliyev-izmirdeki-patlama-nedeniyle-cumhurbaskani-erdogana-taziye-mesaji-gonderdi-962780.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f063c0244221566aaacc",
+      "title": "Gelecek yıl 5 bin 100 parti ürün denetlenecek",
+      "url": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-5-bin-100-parti-urun-denetlenecek-962779.html",
+      "published": "2026-11-10T11:16:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türkiye'de tüketicilerin sağlığını, güvenliğini ve ekonomik çıkarlarını korumak amacıyla gelecek yıl 5 bin 100 parti ürünün denetlenmesi öngörülüyor.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-5-bin-100-parti-urun-denetlenecek-962779.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "cca34cd2bb38231fd3e1",
+      "title": "Trump: FBI, Nvidia CEO'sunun Çin casusu olduğu iddia edilen kadınla ilişkisini soruşturuyor",
+      "url": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T11:15:14+03:00",
+      "source": "BBC Türkçe",
+      "summary": "ABD Başkanı Donald Trump, FBI'ın Nvidia'nın CEO'su Jensen Huang'ın ile Çin casusu olduğu iddia edilen bir kadın arasındaki ilişkiyi soruşturduğunu söyledi.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "882b7e045355ac3706ed",
+      "title": "ABD'nin California eyaletinde milyarder vergisi önerisi reddedildi",
+      "url": "https://www.trthaber.com/haber/dunya/abdnin-california-eyaletinde-milyarder-vergisi-onerisi-reddedildi-962778.html",
+      "published": "2026-11-10T11:12:00+03:00",
+      "source": "TRT Haber",
+      "summary": "ABD'nin California eyaletinde, net serveti 1 milyar doların üzerinde olan kişilerin varlıklarına yüzde 5 oranında tek seferlik vergi uygulanmasını öngören teklif, seçmenlerin oylarıyla reddedildi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/abdnin-california-eyaletinde-milyarder-vergisi-onerisi-reddedildi-962778.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "75460b90cf16ed287e9a",
+      "title": "Avustralya, yapay zeka şirketlerine yeni güvenlik kuralları getiriyor",
+      "url": "https://www.trthaber.com/haber/dunya/avustralya-yapay-zeka-sirketlerine-yeni-guvenlik-kurallari-getiriyor-962777.html",
+      "published": "2026-11-10T11:09:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Avustralya Başbakanı Anthony Albanese, ülkesinde faaliyet gösteren yapay zeka şirketlerini bazı güvenlik kurallarına uymakla yükümlü kılacak yeni bir düzenlemeyi hayata geçireceklerini bildirdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/avustralya-yapay-zeka-sirketlerine-yeni-guvenlik-kurallari-getiriyor-962777.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "04277db6b85e915171e7",
+      "title": "Avustralya'nın en büyük hava yolu şirketi Qantas, yaklaşık 850 kişiyi işten çıkaracak",
+      "url": "https://www.trthaber.com/haber/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak-962776.html",
+      "published": "2026-11-10T11:07:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Avustralyanın en büyük hava yolu şirketi Qantas'ın teknoloji şirketi Accenture ile yaptığı anlaşmanın ardından yaklaşık 850 çalışanının işine kademeli olarak son vereceği bildirildi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak-962776.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "4c73809196fa4ca1dc46",
+      "title": "Financial Times: Netanyahu, İran'a yeni saldırılar başlatmaya ikna etmek için Trump'ı her gün arıyor",
+      "url": "https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html",
+      "published": "2026-11-10T10:58:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İsrail'in soykırımcı Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı İran'a yeni saldırılar başlatması yönünde ikna etmek için her gün aradığı bildirildi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e280753fa70fe5a3e884",
+      "title": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMllidk9GSGYtLXUzbkhYcE84eVpNdHpQeGhMQUxqNGZkV1NIaGItbVpHTnVFbHBnQl9ScHVZT1RQbjlOQ3ZLU0IyY2pxdkRpVWNxb0pHNkZSaGE0a1RlQ0N6R2RqNXBqX3B6VURKNEt2V09sRnFYUG9Pc1lVajlES2h1aHJTaWNCQ1pSbjFqYlU1cTFzRUJj?oc=5",
+      "published": "2026-11-10T10:52:44+03:00",
+      "source": "Yeni Şafak",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMllidk9GSGYtLXUzbkhYcE84eVpNdHpQeGhMQUxqNGZkV1NIaGItbVpHTnVFbHBnQl9ScHVZT1RQbjlOQ3ZLU0IyY2pxdkRpVWNxb0pHNkZSaGE0a1RlQ0N6R2RqNXBqX3B6VURKNEt2V09sRnFYUG9Pc1lVajlES2h1aHJTaWNCQ1pSbjFqYlU1cTFzRUJj?oc=5"
+        },
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-962767.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "437faba49c6fb0d9b21d",
+      "title": "Başkan Erdoğan’ın hamleleri güç dengelerini değiştiriyor: Ankara çevresindeki engelleri aşıyor! İşte İsrail’i korkutan Türkiye merkezli gelişmeler",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNb3Y1Z2Nmd2pnQkw0dlZ6V09EbkQ1TUc4aXFiU181aE1ubkxrVDR2d0dVdTBXb0x2c2dZX2F4QkJteExYT28tZVBPZXBTbkItSjk5eDJlWWJLNVhha1hDeGptT1d3RWQzUmV3TkxmWERrcFVWUWZtREhiSXVVYnFwQlVlSmkwTjBlVHdocmNHS2ptcjFZRHBGalJ3YmFBTkcxRWN5Rmt4LS0wdXNHUkRFd05pQjV6RzhmUUFGY2pKV29CSE53djNnR1FUOGdCWFNlQnVHbVg2VEVBeDRBM19ScUFWdFd4LUo5b3N3YlV2ZDRDS1RmRjUyMVlnQ29kYnpyMVRrRkJ0WGh5bGk1aXlnSExOVzHSAZcCQVVfeXFMT01XbzRCUFVPbVdSVWJTeW9tZUloQU41UnZZU0lUM1lIUFlBb2cxQ3VUaExRT3pOTVJGN1BQZjZoa2xTc0h3aTZxSTFlZENLXzE2QWEyT2ZqVEhtUWpsanpIWjVjX2VaVW9nTUdveUtrRWxXVjlvSnd5WWtqeVAtdmxydTlhSkxnc3hRM0J1WjhZLUdQejBPTG44ODhWbzRSaXBoUko5TngxOG15OXUyNExTY1g5UlFDdnNDOXl1bHNxNURzMTUxZmE3bExPblBncVd2WFJBSWdpWHBrU3Ztd2U5RnZJRG96LU9zMFlPa3pJTnA5ZzZuMFBkWVFmQUVUcjUyQkxTLWtJckJMbDRpVEtPWURxYUE4?oc=5",
+      "published": "2026-11-10T10:51:59+03:00",
+      "source": "Sabah",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Sabah",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNb3Y1Z2Nmd2pnQkw0dlZ6V09EbkQ1TUc4aXFiU181aE1ubkxrVDR2d0dVdTBXb0x2c2dZX2F4QkJteExYT28tZVBPZXBTbkItSjk5eDJlWWJLNVhha1hDeGptT1d3RWQzUmV3TkxmWERrcFVWUWZtREhiSXVVYnFwQlVlSmkwTjBlVHdocmNHS2ptcjFZRHBGalJ3YmFBTkcxRWN5Rmt4LS0wdXNHUkRFd05pQjV6RzhmUUFGY2pKV29CSE53djNnR1FUOGdCWFNlQnVHbVg2VEVBeDRBM19ScUFWdFd4LUo5b3N3YlV2ZDRDS1RmRjUyMVlnQ29kYnpyMVRrRkJ0WGh5bGk1aXlnSExOVzHSAZcCQVVfeXFMT01XbzRCUFVPbVdSVWJTeW9tZUloQU41UnZZU0lUM1lIUFlBb2cxQ3VUaExRT3pOTVJGN1BQZjZoa2xTc0h3aTZxSTFlZENLXzE2QWEyT2ZqVEhtUWpsanpIWjVjX2VaVW9nTUdveUtrRWxXVjlvSnd5WWtqeVAtdmxydTlhSkxnc3hRM0J1WjhZLUdQejBPTG44ODhWbzRSaXBoUko5TngxOG15OXUyNExTY1g5UlFDdnNDOXl1bHNxNURzMTUxZmE3bExPblBncVd2WFJBSWdpWHBrU3Ztd2U5RnZJRG96LU9zMFlPa3pJTnA5ZzZuMFBkWVFmQUVUcjUyQkxTLWtJckJMbDRpVEtPWURxYUE4?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "8c7ea1af181594d9958c",
+      "title": "Temizlik personelinin ameliyata katıldığı iddiasına hastaneden yanıt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFjdnJudE1YVEtRSkg1c2I2aU84bEwwUHRXblJlQTlzMXNkNXdkX00xUGtiMkNYLWxuMFJ3OWRZZWlSVy1iMFd1NEhUZUo3VnhYZWg5YmZnbFVBY3JoOFliUnEweEo5UjdpWnloRVFsOFRhb2FDSWN2Z3pUeTZoc1VsWksyd1FBN2lTMTRSUVNRN1ZhTG1hampDUi1ULWowcldz?oc=5",
+      "published": "2026-11-10T10:51:31+03:00",
+      "source": "Sözcü Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Sözcü Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFjdnJudE1YVEtRSkg1c2I2aU84bEwwUHRXblJlQTlzMXNkNXdkX00xUGtiMkNYLWxuMFJ3OWRZZWlSVy1iMFd1NEhUZUo3VnhYZWg5YmZnbFVBY3JoOFliUnEweEo5UjdpWnloRVFsOFRhb2FDSWN2Z3pUeTZoc1VsWksyd1FBN2lTMTRSUVNRN1ZhTG1hampDUi1ULWowcldz?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "eaf2f9f24540d14555da",
+      "title": "COP31'e 190'dan fazla ülkeden 4 bine yakın basın mensubu katıldı",
+      "url": "https://www.trthaber.com/haber/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-katildi-962774.html",
+      "published": "2026-11-10T10:49:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na COP31, 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-katildi-962774.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d94678e60f68cf3f875c",
+      "title": "Ümit Özdağ'dan 10 Kasım Mesajı: Mirası Korumak İçin Söz Veriyoruz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlNTYkNwbnY3UnlMbV90TkM0eTZ6T3psXzMyVlN1YzkwRTgwTmh6R0NacUFZTjBfYkxlSHAzSHlINnNXLVRveE5iUzZQYzQwS0l4WDdKWkZEZE56OF9oOXdOQjFtU2lkQjY4bFdndzlLZFVKQUo3Ym1fcWthNjNkczVRcXBPYzhGMEpSMVJFdEs2VjNlc3Jwd3RBOGhpSklJcWlWVnpB?oc=5",
+      "published": "2026-11-10T10:47:09+03:00",
+      "source": "Dosya Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Dosya Haber",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlNTYkNwbnY3UnlMbV90TkM0eTZ6T3psXzMyVlN1YzkwRTgwTmh6R0NacUFZTjBfYkxlSHAzSHlINnNXLVRveE5iUzZQYzQwS0l4WDdKWkZEZE56OF9oOXdOQjFtU2lkQjY4bFdndzlLZFVKQUo3Ym1fcWthNjNkczVRcXBPYzhGMEpSMVJFdEs2VjNlc3Jwd3RBOGhpSklJcWlWVnpB?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "64d804648b10469f692a",
+      "title": "Sayıştay 16 sözleşmeli personel alacak",
+      "url": "https://www.trthaber.com/haber/turkiye/sayistay-16-sozlesmeli-personel-alacak-962773.html",
+      "published": "2026-11-10T10:47:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Sayıştay Başkanlığı, 3'ü çözümleyici, 13'ü programcı olmak üzere 16 sözleşmeli personel istihdam edecek.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/sayistay-16-sozlesmeli-personel-alacak-962773.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "c15fc9bdfce111ff09da",
+      "title": "Özdağ'dan Atatürk'e: Zaferini koruyacağız",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWcwUkR6ZUc5RlZIZDQwbkp6SGg4X3ZPQ2hFSEl4WVlMLUxBQXdzamRsSUhyWDdRdm4xQ0tHWEYyai1nSllzaGVhZVdhbmVZZUd2OTVMRjBpWjlqTkVFQ1MzeWZKYTZaWUo5THVGYTJtM2otSXJ3TDNTS3JJbVMtcTY4RUxXUQ?oc=5",
+      "published": "2026-11-10T10:40:00+03:00",
+      "source": "Habererk.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Habererk.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWcwUkR6ZUc5RlZIZDQwbkp6SGg4X3ZPQ2hFSEl4WVlMLUxBQXdzamRsSUhyWDdRdm4xQ0tHWEYyai1nSllzaGVhZVdhbmVZZUd2OTVMRjBpWjlqTkVFQ1MzeWZKYTZaWUo5THVGYTJtM2otSXJ3TDNTS3JJbVMtcTY4RUxXUQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d5a5003e73a2d57640ac",
+      "title": "Ümit Özdağ Atatürk'ü 88'inci ölüm yılında andı, 'Rahat uyu Atam' dedi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEZ3NUlxWmp1bGtXa19yQTdoYlc5cWxua0NFQzJrbDYyZGl5bW5WbWZiemJwNS16UUVHVWpQQ1IxSlVmWGJhUDJucUN5bmNyRGhoblE4emRIUkI5bGFSR3VjYXlnWkJISUQ0RTZxSDFUblAzRWpsVU9FRWRnVnpoMHkzUGRJemlzS2tUNmdXUHh5aDdUN0pQczNlODDSAZwBQVVfeXFMTXhGdzVJcVpqdWxrV2tfckE3aGJXOXFsbmtDRUMya2w2MmRpeW1uVm1mYnpicDUtelFFR1VqUENSMUpVZlhiYVAybnFDeW5jckRoaG5ROHpkSFJCOWxhUkd1Y2F5Z1pCSElENEU2cUgxVG5QM0VqbFVPRUVkZ1Z6aDB5M1BkSXppc0trVDZnV1B4eWg3VDdKUHMzZTgw?oc=5",
+      "published": "2026-11-10T10:37:50+03:00",
+      "source": "Son Dakika",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEZ3NUlxWmp1bGtXa19yQTdoYlc5cWxua0NFQzJrbDYyZGl5bW5WbWZiemJwNS16UUVHVWpQQ1IxSlVmWGJhUDJucUN5bmNyRGhoblE4emRIUkI5bGFSR3VjYXlnWkJISUQ0RTZxSDFUblAzRWpsVU9FRWRnVnpoMHkzUGRJemlzS2tUNmdXUHh5aDdUN0pQczNlODDSAZwBQVVfeXFMTXhGdzVJcVpqdWxrV2tfckE3aGJXOXFsbmtDRUMya2w2MmRpeW1uVm1mYnpicDUtelFFR1VqUENSMUpVZlhiYVAybnFDeW5jckRoaG5ROHpkSFJCOWxhUkd1Y2F5Z1pCSElENEU2cUgxVG5QM0VqbFVPRUVkZ1Z6aDB5M1BkSXppc0trVDZnV1B4eWg3VDdKUHMzZTgw?oc=5"
+        },
+        {
+          "name": "Haberler",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlRiWWFPWFc0bm9RZk9EeTBGcW9ITzZyN0RvRmJJaUMzYi1oVUsxT0tJX3FrNXJ3bHFWellNcVhhQmYzV0h4Q25nNGVUNWZieEZ2TExIRFllS29WZ2pqeE8zdWlsTEY4Ujl4SHJNREhrVzRlX3lFbjBjeDVIWG9pc3ptZmFGNWlycDk3bFlKQ2plMEhJYU9Ia9IBmAFBVV95cUxQdlRiWWFPWFc0bm9RZk9EeTBGcW9ITzZyN0RvRmJJaUMzYi1oVUsxT0tJX3FrNXJ3bHFWellNcVhhQmYzV0h4Q25nNGVUNWZieEZ2TExIRFllS29WZ2pqeE8zdWlsTEY4Ujl4SHJNREhrVzRlX3lFbjBjeDVIWG9pc3ptZmFGNWlycDk3bFlKQ2plMEhJYU9Iaw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7a436fdf142b62abef4d",
+      "title": "Ümit Özdağ'dan 10 Kasım mesajı: Rahat uyu Atam, biz varız!",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb21WTlFwTUZWWUxrdFdkaVRleWdBTWpCWU9FLXdib2pjNUx6NEVfTTZiQmh2NkpFMjM5dFFnRDB6QS1GRGh4RmdvM2trVDBRMnNIbzM1Wks4NV9zcHptMmVaZWdPdmp2b0tuNXI5ZUZjSjJDdWVHTk1qY0k0dmN4TVh4aVNSZTc0SW0w?oc=5",
+      "published": "2026-11-10T10:36:00+03:00",
+      "source": "https://www.babaocagi.com/",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "https://www.babaocagi.com/",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb21WTlFwTUZWWUxrdFdkaVRleWdBTWpCWU9FLXdib2pjNUx6NEVfTTZiQmh2NkpFMjM5dFFnRDB6QS1GRGh4RmdvM2trVDBRMnNIbzM1Wks4NV9zcHptMmVaZWdPdmp2b0tuNXI5ZUZjSjJDdWVHTk1qY0k0dmN4TVh4aVNSZTc0SW0w?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5ffab0bb1dd8568117ca",
+      "title": "TBMM Başkanı Kurtulmuş'tan partilere ziyaret",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnRhUFJWZFh6eHpKY3FLemtNNGFIUnFjYmx3cU9NaXowWE96cm1YNi1rbUZTb3kzQkxKZGZNVEF1UjJSbTMzRkExMkV2VnZfRG1WWHdWdzY2c2xPaXkyZy1PZjJjcG84dm9uSURLNDNSVktzODhtX0RMTHRFVkdzOVIxSk5fa0dmOTZV?oc=5",
+      "published": "2026-11-10T10:34:41+03:00",
+      "source": "CNN Türk",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnRhUFJWZFh6eHpKY3FLemtNNGFIUnFjYmx3cU9NaXowWE96cm1YNi1rbUZTb3kzQkxKZGZNVEF1UjJSbTMzRkExMkV2VnZfRG1WWHdWdzY2c2xPaXkyZy1PZjJjcG84dm9uSURLNDNSVktzODhtX0RMTHRFVkdzOVIxSk5fa0dmOTZV?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "cf3e62330abc5511f947",
+      "title": "Cafer Mahiroğlu'na yönelik soruşturmada 7 şüpheli gözaltına alındı",
+      "url": "https://www.trthaber.com/haber/turkiye/cafer-mahirogluna-yonelik-sorusturmada-7-supheli-gozaltina-alindi-962772.html",
+      "published": "2026-11-10T10:26:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cafer Mahiroğlu'na yönelik \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikinci operasyonda 7 şüpheli gözaltına alındı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/cafer-mahirogluna-yonelik-sorusturmada-7-supheli-gozaltina-alindi-962772.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e64de183f2f8359df767",
+      "title": "Ankara merkezli 8 ilde yasa dışı bahis operasyonu: 11 şüpheli yakalandı",
+      "url": "https://www.trthaber.com/haber/gundem/ankara-merkezli-8-ilde-yasa-disi-bahis-operasyonu-11-supheli-yakalandi-962771.html",
+      "published": "2026-11-10T10:24:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, yasa dışı bahis gelirlerini sosyal medya fenomenleri aracılığıyla akladıkları tespit edilen 11 şüpheli, 8 ilde düzenlenen eş zamanlı operasyonla gözaltına alındı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/ankara-merkezli-8-ilde-yasa-disi-bahis-operasyonu-11-supheli-yakalandi-962771.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "bc3b7b9dbceed84232bb",
+      "title": "Atatürk'ün manevi mirası Savarona Dolmabahçe açıklarında",
+      "url": "https://www.trthaber.com/haber/turkiye/ataturkun-manevi-mirasi-savarona-dolmabahce-aciklarinda-962770.html",
+      "published": "2026-11-10T10:24:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cumhuriyet'in kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinden önce yaklaşık iki ayını geçirdiği manevi mirası Savarona yatı, 10 Kasım Atatürkü Anma Günü dolayısıyla Büyük Önder'in hayata gözlerini yumduğu Dolmabahçe Sarayının açıklarına demirledi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/ataturkun-manevi-mirasi-savarona-dolmabahce-aciklarinda-962770.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "9ee3507b21c4573003b8",
+      "title": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6 arttı",
+      "url": "https://www.trthaber.com/haber/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-26-artti-962769.html",
+      "published": "2026-11-10T10:22:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Sanayi üretim endeksi, eylülde aylık bazda yüzde 2,1, yıllık bazda yüzde 2,6 artış gösterdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-26-artti-962769.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "aa897aa90b2411b4bf93",
+      "title": "Büyük Önder Atatürk, Dolmabahçe Sarayı'ndaki odasında törenle anıldı",
+      "url": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-dolmabahce-sarayindaki-odasinda-torenle-anildi-962768.html",
+      "published": "2026-11-10T10:20:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Mustafa Kemal Atatürk, 88 yıl önce hayata gözlerini yumduğu Dolmabahçe Sarayı'ndaki odasında törenle anıldı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-dolmabahce-sarayindaki-odasinda-torenle-anildi-962768.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "a37bf6de3525e14557f5",
+      "title": "İnşaat maliyet endeksi eylülde arttı",
+      "url": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html",
+      "published": "2026-11-10T10:19:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İnşaat maliyet endeksi, eylülde aylık bazda yüzde 1,81, yıllık yüzde 30,8 artış gösterdi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "fb5943eaecb329745dbe",
+      "title": "Bakan Ersoy’dan turizmi ve istihdamı destekleyen Cumhurbaşkanı Erdoğan’a teşekkür",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaXZQcE9oeXBxVGJ6eV9Hc3A2WTljc2RPTlpkSlJFUElwT1BUaEZUMFU3WUo1NENtLUJTTFlMOHBJV2tMYjF0dzFoUU10Ql9yd190ckd2RUswc3dYY3BndWVZQ0ZISVBKUFJmcHNreFJ6cUNoQm1FdWotOWliek5mM0E1V2RLS3Y0RjJ5Q2lCeHpCbGVBN29wQ084S2k0UFE1bWJ4S1pMTWxadHpSTWE0amRBbkEzV2liYnR4MWlXb0ZBODZiVEVGbjZjbkE?oc=5",
+      "published": "2026-11-10T10:15:00+03:00",
+      "source": "Tourism Today",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Tourism Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaXZQcE9oeXBxVGJ6eV9Hc3A2WTljc2RPTlpkSlJFUElwT1BUaEZUMFU3WUo1NENtLUJTTFlMOHBJV2tMYjF0dzFoUU10Ql9yd190ckd2RUswc3dYY3BndWVZQ0ZISVBKUFJmcHNreFJ6cUNoQm1FdWotOWliek5mM0E1V2RLS3Y0RjJ5Q2lCeHpCbGVBN29wQ084S2k0UFE1bWJ4S1pMTWxadHpSTWE0amRBbkEzV2liYnR4MWlXb0ZBODZiVEVGbjZjbkE?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "8f8e3a397a2be706c4b4",
+      "title": "Trump, ABD Savunma Bakanı Hegseth'in azledilmek yerine övülmesi gerektiğini savundu",
+      "url": "https://www.trthaber.com/haber/dunya/trump-abd-savunma-bakani-hegsethin-azledilmek-yerine-ovulmesi-gerektigini-savundu-962765.html",
+      "published": "2026-11-10T10:01:00+03:00",
+      "source": "TRT Haber",
+      "summary": "ABD Başkanı Donald Trump, Savunma Bakanı Pete Hegseth'in azledilmesine yönelik girişimlere tepki göstererek, Hegseth'in azledilmek yerine övgüyü hak ettiğini belirtti.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/trump-abd-savunma-bakani-hegsethin-azledilmek-yerine-ovulmesi-gerektigini-savundu-962765.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "c9d378d38b242b3fc768",
+      "title": "Altın güne düşüşle başladı 10 Kasım 2026 altın fiyatları",
+      "url": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-10-kasim-2026-altin-fiyatlari-962764.html",
+      "published": "2026-11-10T09:42:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Gram altın güne düşüşle başlamasının ardından 6 bin 657 liradan işlem görüyor. Çeyrek altın 10 bin 951 liradan, cumhuriyet altını 43 bin 604 liradan satılıyor.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-10-kasim-2026-altin-fiyatlari-962764.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "0f23cc7bcf32aade94f2",
+      "title": "Yeşil Mutabakat Eylem Planı güncellendi: Cumhurbaşkanlığı Genelgesi Resmi Gazete'de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVAyUERyWnF0dmtXbHNPSjRIbnlWV0VjeFdkdE9TZzhtVFk2MU1aOUFLQ013SG1oRTYtOThkZmdtU0JkZHU2TnlfVmp3SmJBbnZUUFJCT2lfTlVoc1RHQlV5SV9FbVI0ZHpVeWptSGtQSFlJVVlUX1FXUURIVWtsQ0FKY1NGVDJoS1B6Z1BvQnRtMUsxQmxvQmxZendNOW5sU0F3YkkzeUotYURzalBiVnBWRzhIUDdINWJYWjBNa9IBwgFBVV95cUxNUlpUMWRYNnFicUFjaHdwU3VGN19wclh0dC1fTldmLWw1emxRbHkxd0tmbTJreWRGZEhJaXRlbE1WVHRKUWNveDhMMnlPOTV6Wk95VWVPamdSRzByejA3ZG1lZkxMZkpZRnNaU2dmZUlaODRkUGxrUFJUNVhlV1pYV0lLVEdER1FTN0gzTDlQYVJpdVVBcVVmWDZuRktDcXBWQnRkRGdQTVdQQkNYT2F3dDExVUl4VWdqS2xmQW1lUjkwZw?oc=5",
+      "published": "2026-11-10T09:36:49+03:00",
+      "source": "Sabah",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Sabah",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVAyUERyWnF0dmtXbHNPSjRIbnlWV0VjeFdkdE9TZzhtVFk2MU1aOUFLQ013SG1oRTYtOThkZmdtU0JkZHU2TnlfVmp3SmJBbnZUUFJCT2lfTlVoc1RHQlV5SV9FbVI0ZHpVeWptSGtQSFlJVVlUX1FXUURIVWtsQ0FKY1NGVDJoS1B6Z1BvQnRtMUsxQmxvQmxZendNOW5sU0F3YkkzeUotYURzalBiVnBWRzhIUDdINWJYWjBNa9IBwgFBVV95cUxNUlpUMWRYNnFicUFjaHdwU3VGN19wclh0dC1fTldmLWw1emxRbHkxd0tmbTJreWRGZEhJaXRlbE1WVHRKUWNveDhMMnlPOTV6Wk95VWVPamdSRzByejA3ZG1lZkxMZkpZRnNaU2dmZUlaODRkUGxrUFJUNVhlV1pYV0lLVEdER1FTN0gzTDlQYVJpdVVBcVVmWDZuRktDcXBWQnRkRGdQTVdQQkNYT2F3dDExVUl4VWdqS2xmQW1lUjkwZw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d37f23f8d2f95fa3371e",
+      "title": "Peynir üretiminde süt dışı proteinlere yasak",
+      "url": "https://www.trthaber.com/haber/turkiye/peynir-uretiminde-sut-disi-proteinlere-yasak-962763.html",
+      "published": "2026-11-10T09:33:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Peynir üretiminde süt proteini dışındaki proteinler, nişasta ve nişasta bazlı ürünler, jelatin, soya ürünleri ile süt yağı dışındaki hayvansal ve bitkisel yağların kullanılması yasaklandı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/peynir-uretiminde-sut-disi-proteinlere-yasak-962763.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "162bb8721dd29cdd880b",
+      "title": "Atatürk'ün vefatının 88. yıl dönümü! Başkan Erdoğan ve devlet erkanı Anıtkabir 'de",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnVLbUE4NGs0a0x6OGpiMXBobk5tUEhsZFBFMy1nZDhhbnpJeWNfcFUxUFVwRmo2NFVBN0hhWG0yUFdEMnhSamxJYTZ3LWJ2dWpuMjNSUkJ6cjh1M0Z0X2s0MkphWTBtYmNaQUtNTGxFY1NPVnNkTkxVeVVudHRFWEdURE5SV1ZoOHBjQTBGYnZXX3ZqOFV0UnJDR3U0a3gyNHlrZ3M0OTVKaHZubHN1Qm9nbTdOTFdzWGc?oc=5",
+      "published": "2026-11-10T09:29:04+03:00",
+      "source": "Yeni Asır",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Asır",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnVLbUE4NGs0a0x6OGpiMXBobk5tUEhsZFBFMy1nZDhhbnpJeWNfcFUxUFVwRmo2NFVBN0hhWG0yUFdEMnhSamxJYTZ3LWJ2dWpuMjNSUkJ6cjh1M0Z0X2s0MkphWTBtYmNaQUtNTGxFY1NPVnNkTkxVeVVudHRFWEdURE5SV1ZoOHBjQTBGYnZXX3ZqOFV0UnJDR3U0a3gyNHlrZ3M0OTVKaHZubHN1Qm9nbTdOTFdzWGc?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "3c31970c16435b128329",
+      "title": "Büyük Önder Atatürk için TBMM'de anıldı",
+      "url": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-icin-tbmmde-anildi-962762.html",
+      "published": "2026-11-10T09:26:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla TBMM'de anma töreni düzenlendi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-icin-tbmmde-anildi-962762.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "445014c061d995293605",
+      "title": "Vergi borcu 5 milyon lira ve üzeri olan mükelleflerin isimleri açıklanacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html",
+      "published": "2026-11-10T09:15:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Kesinleşen vergi ve ceza borçları ile vadesi geçtiği halde ödenmemiş borçları 5 milyon lira ve üzeri olan mükelleflerin isimleri aralık ayında kamuoyuyla paylaşılacak.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "99428886f9b42710193a",
+      "title": "Cumhurbaşkanı Erdoğan: Bu cennet vatanı ihya etmeye kararlılıkla devam edeceğiz",
+      "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-cennet-vatani-ihya-etmeye-kararlilikla-devam-edecegiz-962759.html",
+      "published": "2026-11-10T09:14:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Cumhurbaşkanı Erdoğan, \"Bölgemizin ve dünyanın krizlerle boğuştuğu bu zorlu dönemde, Türkiye Cumhuriyeti'ni 86 milyon ferdiyle daha müreffeh bir geleceğe taşımak için tüm imkanlarımızı harekete geçirmiş durumdayız\" dedi.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-cennet-vatani-ihya-etmeye-kararlilikla-devam-edecegiz-962759.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "b9aa066b78af9231c1dc",
+      "title": "WSJ: ABD, İran tehdidi üzerine tanker uçaklarını İngiltere'deki üsten tahliye etti",
+      "url": "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html",
+      "published": "2026-11-10T09:14:00+03:00",
+      "source": "TRT Haber",
+      "summary": "The Wall Street Journal WSJ gazetesi, İran kaynaklı bir tehdidin ardından ABD'nin İngiltere'deki hava üssünde bulunan uçaklarını Almanya ve diğer ülkelere tahliye ettiğini öne sürdü.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "37779e3e7907cf114af9",
+      "title": "İletişim Başkanı Duran'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+      "url": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-10-kasim-ataturku-anma-gunu-mesaji-962756.html",
+      "published": "2026-11-10T09:08:00+03:00",
+      "source": "TRT Haber",
+      "summary": "İletişim Başkanı Duran, \"Bir milletin bağımsızlığına sahip çıkma kararlılığının tarihe yön verdiği Milli Mücadele, ortak irademizin ve birlik ruhumuzun en güçlü örneklerinden biridir. Bu büyük mücadelenin ardından kurulan Cumhuriyet'imiz, milletimizin kendi geleceğini belirleme iradesinin en önemli kazanımlarındandır.\" ifadesini kullandı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-10-kasim-ataturku-anma-gunu-mesaji-962756.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "746e8a03602048a65d0d",
+      "title": "Bakan Kurum’dan COP31 açıklaması: İsrail’e davet yok!",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVJpYVNCQ1Y3VGZMVG1hcC02d3BONXVXVWRWTnNETG1LNm9zZHBzZXh0RFVDNzVneHVvMkowUWc5THMtZl9IS21EODlCeVJjY0kzOEFIOXJmVVlKejEweUJ6QXE3RmU2QXdQR3pkT1BDeGFsQmhwUUkyVjRaWXhKWDlaUlVMbTgzSWdwbDFEaURocE5xTFUw?oc=5",
+      "published": "2026-11-10T08:57:00+03:00",
+      "source": "Gazete İlk Sayfa",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Gazete İlk Sayfa",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVJpYVNCQ1Y3VGZMVG1hcC02d3BONXVXVWRWTnNETG1LNm9zZHBzZXh0RFVDNzVneHVvMkowUWc5THMtZl9IS21EODlCeVJjY0kzOEFIOXJmVVlKejEweUJ6QXE3RmU2QXdQR3pkT1BDeGFsQmhwUUkyVjRaWXhKWDlaUlVMbTgzSWdwbDFEaURocE5xTFUw?oc=5"
+        },
+        {
+          "name": "Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1pjb0ZvLWtyTXpoVFVmWG1RQlBJMW54eHcxendWYlVNeVkzck9oNlEwNk9pSWVxQzBYOEpEcjdfb21fcUNwckxDS0hZVkg4QXBQczRIakpQdXowODJHelZ1VFBPR2pzcEU3eHlmQmFqQjBfZnNjWVM1YklYMm52ZWUzRzhXNENGLUtXNTB0NjRCQlVDbEtjekdJY0JzbElhdWxR?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "40195efa8662cf37b9e0",
+      "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalyeye ulaştı",
+      "url": "https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti-962754.html",
+      "published": "2026-11-10T08:48:00+03:00",
+      "source": "TRT Haber",
+      "summary": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalye kazandı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti-962754.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1cb3e684257547a20542",
+      "title": "Bakan Kurum'dan COP31 açıklaması: İsrail'i Liderler Zirvesi'ne davet etmedik",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEE1aVMxVW45U0ZROUpYREw5Qk10Q09NYWNxTDZKSlJXU2UzaGhZdVlsZGxpZGpYQXppa0hoVU1aVUNKZjJXbEt0RVZpR1NIVnNrMEk4aFBkSkRIYWFMWVlwblNMZnNNWmU2SHhnMGN5Vk5EMmx5VV9pYkVEcVQ2c3JldGxPbFZWZ25GeldERzh6WGk2NkdmcDRzaEYxeFhWczk3NkJ6Q2FqNkRhT2ZYYmt3?oc=5",
+      "published": "2026-11-10T08:48:00+03:00",
+      "source": "İşçi Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "İşçi Haber",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEE1aVMxVW45U0ZROUpYREw5Qk10Q09NYWNxTDZKSlJXU2UzaGhZdVlsZGxpZGpYQXppa0hoVU1aVUNKZjJXbEt0RVZpR1NIVnNrMEk4aFBkSkRIYWFMWVlwblNMZnNNWmU2SHhnMGN5Vk5EMmx5VV9pYkVEcVQ2c3JldGxPbFZWZ25GeldERzh6WGk2NkdmcDRzaEYxeFhWczk3NkJ6Q2FqNkRhT2ZYYmt3?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "65414b52a4866bfccb3b",
+      "title": "Bakan Kurum'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUtwQjFrbkhKNjFYd0ktTmxQWnhpQXZ6ZGRrd3V4ZUtJdlFvMHZjbG5KUEJrS3FVaTZtWFkxVi1Ud1ZLQ3dHaWhCbDBHN3FsTm1rZDJIS2pRMGlsUm9Gck5QcHVfN3ItMHN3LVZGNkJpalZKaDZuYThVZDlzeXNfZmlSNUNUZ2ROMlVGQTFoam1TaDdiY1Vn?oc=5",
+      "published": "2026-11-10T08:43:25+03:00",
+      "source": "İnternet Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "İnternet Haber",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUtwQjFrbkhKNjFYd0ktTmxQWnhpQXZ6ZGRrd3V4ZUtJdlFvMHZjbG5KUEJrS3FVaTZtWFkxVi1Ud1ZLQ3dHaWhCbDBHN3FsTm1rZDJIS2pRMGlsUm9Gck5QcHVfN3ItMHN3LVZGNkJpalZKaDZuYThVZDlzeXNfZmlSNUNUZ2ROMlVGQTFoam1TaDdiY1Vn?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "a0cda46df8206d149a67",
+      "title": "Sahte pasaportla Kanada'ya 16 kez giriş çıkış yapan kişiye 2 yıl hapis cezası",
+      "url": "https://www.trthaber.com/haber/dunya/sahte-pasaportla-kanadaya-16-kez-giris-cikis-yapan-kisiye-2-yil-hapis-cezasi-962753.html",
+      "published": "2026-11-10T08:38:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Kanada'da sahte pasaport kullanarak 16 kez ülkeye giriş ve çıkış yaptığı tespit edilen Gana vatandaşı Jefferson Zormelo, vatandaşlık dolandırıcılığı suçundan 2 yıl hapis cezasına çarptırıldı. 22 yaşındaki Zormelo, Kanada Vatandaşlık Yasası'nı ihlal etmekten suçlu bulundu.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/sahte-pasaportla-kanadaya-16-kez-giris-cikis-yapan-kisiye-2-yil-hapis-cezasi-962753.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "3073d74fc81583da786d",
+      "title": "Kapadokya'da balonlar Türk bayrağı ve Atatürk posteriyle uçtu",
+      "url": "https://www.trthaber.com/haber/turkiye/kapadokyada-balonlar-turk-bayragi-ve-ataturk-posteriyle-uctu-962752.html",
+      "published": "2026-11-10T08:23:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Kapadokya'da bazı sıcak hava balonları, \"10 Kasım Atatürk'ü Anma Günü\" dolayısıyla Türk bayrağı ve Atatürk posterleriyle uçtu.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/kapadokyada-balonlar-turk-bayragi-ve-ataturk-posteriyle-uctu-962752.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d78ecd9218af47f0aeb5",
+      "title": "Zafer Partisi Ahmet Cengiz’le devam",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRZTIydjI5ZDRGVUZBTnh5M0ZoV0czXzZqekowVG9kVjEyR3BhTTFrQ1h0cDhlYlZTSE1fc0RZRzFNckpMaHh5cUlPdU9oaTdtMVhTOE15VjBOeW11RlZTeHhpX3RCU1c2aEF6QzhJQ2NSdFNXT005U0dXSQ?oc=5",
+      "published": "2026-11-10T08:18:19+03:00",
+      "source": "Aliağa Ekspres",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Aliağa Ekspres",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRZTIydjI5ZDRGVUZBTnh5M0ZoV0czXzZqekowVG9kVjEyR3BhTTFrQ1h0cDhlYlZTSE1fc0RZRzFNckpMaHh5cUlPdU9oaTdtMVhTOE15VjBOeW11RlZTeHhpX3RCU1c2aEF6QzhJQ2NSdFNXT005U0dXSQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "ba68a6fdbc6f18554499",
+      "title": "Almanya'da 1 euroya döner ortalığı karıştırdı",
+      "url": "https://www.trthaber.com/haber/dunya/almanyada-1-euroya-doner-ortaligi-karistirdi-962751.html",
+      "published": "2026-11-10T08:16:00+03:00",
+      "source": "TRT Haber",
+      "summary": "Almanya'nın batısındaki Dortmund kentinde bir döner dükkanının açılışında düzenlenen indirim kampanyası izdihama yol açtı. Yüzlerce kişinin 1 euroya satılacağı duyurulan dönerden alabilmek için dükkana akın etmesi üzerine olay yerine polis ekipleri çağrıldı.",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/almanyada-1-euroya-doner-ortaligi-karistirdi-962751.html"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e8e10a1566304064d5b9",
+      "title": "Ümit Özdağ’a geçmişinden sorular",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UbGdKd1NveTRScFZlak9RbVBFZ1ZKUzhOc0wyeXNMazhjMjBTRnZ2MUJoWDNsdUJxRnpSR0RiV2IwNF95RmFVSEFtel9FTlRUYlNNeXVZeDU1bHRCSU1uMS0wYlF5cWFlTk1xcENraU1JcDZQSURpZktXM3d5Ylk?oc=5",
+      "published": "2026-11-10T08:00:00+03:00",
+      "source": "Türkgün",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Türkgün",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UbGdKd1NveTRScFZlak9RbVBFZ1ZKUzhOc0wyeXNMazhjMjBTRnZ2MUJoWDNsdUJxRnpSR0RiV2IwNF95RmFVSEFtel9FTlRUYlNNeXVZeDU1bHRCSU1uMS0wYlF5cWFlTk1xcENraU1JcDZQSURpZktXM3d5Ylk?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f3bcdeee4aad46f1804d",
+      "title": "“Tam Bağımsız Türkiye İçin Mücadelemiz Sürecek!” Ahmet Uslu’dan Atatürk mesajı",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFlTd3ZhR0lyRGxVenlseU5nUkV2ejRqTHA0YnpHMGFqNHFPNldYNmQzUlZaakt4UDZYejJpSlFsNXBWVDNTMmc2V3ZPR2M3ZmNrNGh2UndaeVVSZmZWb3ZMeE1yMUl5VEtjamVTZExSVF8zX2tubFhsRnF3b0w5b3lacVplMHktMjhKb1JxOEF4VEN1dkRkamZPN010M3VUdFVubTJacUhvN2lrUmVTQUdUOGtZZVBaM1E?oc=5",
+      "published": "2026-11-10T07:37:50+03:00",
+      "source": "Çanakkale Olay",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Çanakkale Olay",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFlTd3ZhR0lyRGxVenlseU5nUkV2ejRqTHA0YnpHMGFqNHFPNldYNmQzUlZaakt4UDZYejJpSlFsNXBWVDNTMmc2V3ZPR2M3ZmNrNGh2UndaeVVSZmZWb3ZMeE1yMUl5VEtjamVTZExSVF8zX2tubFhsRnF3b0w5b3lacVplMHktMjhKb1JxOEF4VEN1dkRkamZPN010M3VUdFVubTJacUhvN2lrUmVTQUdUOGtZZVBaM1E?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "a0320981afd4899cf8a2",
+      "title": "Bakan Gürlek'ten Adalet Bakanlığı bütçesinin kabulüne ilişkin açıklama",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUxGYl92NC1SVldBZ1BJeFg3ZnEzMEF4NDBoaTJHX0FUem1UYURlOUZieFVKMWZzMllHN1BNa1JWZDRYUEJnblFycVY4aFpGRnIzOGpwWHRXdllIWi01M0N2Sm5uNERMWU5XMmxfaV9qMWs1NFl4enpZS3FaeUcyaVc1aXRhRWdhbVg0dHdqZFQyckVXbUZhR0dicXAzT2s4aEdxcGkweXphWmppTEdz?oc=5",
+      "published": "2026-11-10T07:25:35+03:00",
+      "source": "Yeni Şafak",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUxGYl92NC1SVldBZ1BJeFg3ZnEzMEF4NDBoaTJHX0FUem1UYURlOUZieFVKMWZzMllHN1BNa1JWZDRYUEJnblFycVY4aFpGRnIzOGpwWHRXdllIWi01M0N2Sm5uNERMWU5XMmxfaV9qMWs1NFl4enpZS3FaeUcyaVc1aXRhRWdhbVg0dHdqZFQyckVXbUZhR0dicXAzT2s4aEdxcGkweXphWmppTEdz?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "ceb30501b47a45162525",
+      "title": "Diplomasinin kalbi Antalya’da atıyor: Liderler dünya için Türkiye’de",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUtMMzF1TGlic3QwN0VnbEJnNkNsbk1fVEtJbFhkdE9QeTktaC1XTmJVODQ5OXZSSjBpUjdHWU9rbk0zdkZlSnpLc2F2bklERjg3aS1SbWd5RVpxX2xOM3NPZXMwZjM2bll3ZDMyVXpYVlBmYUQxSHJERzdkT0VvVXJhM3dTVkVRQlRTdFpJOG1zZGlsdFRua3Y0VndLcnZwaXBBeEtkQWRUeTZ0?oc=5",
+      "published": "2026-11-10T06:53:00+03:00",
+      "source": "Milliyet",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Milliyet",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUtMMzF1TGlic3QwN0VnbEJnNkNsbk1fVEtJbFhkdE9QeTktaC1XTmJVODQ5OXZSSjBpUjdHWU9rbk0zdkZlSnpLc2F2bklERjg3aS1SbWd5RVpxX2xOM3NPZXMwZjM2bll3ZDMyVXpYVlBmYUQxSHJERzdkT0VvVXJhM3dTVkVRQlRTdFpJOG1zZGlsdFRua3Y0VndLcnZwaXBBeEtkQWRUeTZ0?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "9273581e4204ca7bc935",
+      "title": "Bakan Gürlek'ten Yeni Parti'li Özer'e: 'Milletvekili olmasan evin aranacaktı'",
+      "url": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T03:40:43+03:00",
+      "source": "BBC Türkçe",
+      "summary": "Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda, Yeni Parti İstanbul Milletvekili Turan Taşkın Özer ile İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden tartıştı. Bakan Gürlek, Turan Taşkın Özer'e, karşılıklı olarak dokunulmazlıkları kaldırmayı önerdi.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c930/live/2476f460-dc86-11f1-851a-19e868620cad.png",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "909057d3d4d9855b4881",
+      "title": "Bakan Gürlek'ten fon soruşturması açıklaması. 'Biz, milletimizi nezle edeni hiç affetmez, verem ederiz'",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHgxaXlzZFhWS0dNSlNpYjEzUXJSaXVRWWNVZTl1b3FXM1MyOEpEbGE2cVVnOVJ2YjZyN0s3MVJEV05lUzB0ajBITWJoTE9sREgtY01iT1ZaaFd3U2diLUdHWFFJaW5XRWVHTGptNGNMWl81aWRieERaMFU1ZllxSm5jU2psVExMU3dWZ2pDZTMyTG4zY0F2Mk55TlhGblJfcjZKRUFaaEdjSnNPUlFLbXpJeWk5SGhjU2Ntd0swWk9zWUFPWUdKbg?oc=5",
+      "published": "2026-11-10T02:04:00+03:00",
+      "source": "Nefes Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Nefes Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHgxaXlzZFhWS0dNSlNpYjEzUXJSaXVRWWNVZTl1b3FXM1MyOEpEbGE2cVVnOVJ2YjZyN0s3MVJEV05lUzB0ajBITWJoTE9sREgtY01iT1ZaaFd3U2diLUdHWFFJaW5XRWVHTGptNGNMWl81aWRieERaMFU1ZllxSm5jU2psVExMU3dWZ2pDZTMyTG4zY0F2Mk55TlhGblJfcjZKRUFaaEdjSnNPUlFLbXpJeWk5SGhjU2Ntd0swWk9zWUFPWUdKbg?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "033fa565fa47bdce21ea",
+      "title": "Bakan Kurum: COP31, son yılların en yüksek katılımlı zirvelerinden biri olacak",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3hBYUl3eENKSUxiYzFBQ3JPS2hndjl2cm56V001X1BMcTNrS2R5QXRubHpRdlJXM2w2UW02VjRoa2RjUjB5cnNrc1ItSGtNYVdJZ3UyUGlOX2R1Rms4NDNpRm5hOThNVS1kYV9RYmhuUjhiX2NlNTZEMFhtdF9LUm1zbXhLRFBWcjY1T3p5OFJrcVRVS2lCdDhmNnpZNU9maXd4WU1wYTdOYy1vamhVUGlKbw?oc=5",
+      "published": "2026-11-10T01:44:41+03:00",
+      "source": "Anka Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Anka Haber",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3hBYUl3eENKSUxiYzFBQ3JPS2hndjl2cm56V001X1BMcTNrS2R5QXRubHpRdlJXM2w2UW02VjRoa2RjUjB5cnNrc1ItSGtNYVdJZ3UyUGlOX2R1Rms4NDNpRm5hOThNVS1kYV9RYmhuUjhiX2NlNTZEMFhtdF9LUm1zbXhLRFBWcjY1T3p5OFJrcVRVS2lCdDhmNnpZNU9maXd4WU1wYTdOYy1vamhVUGlKbw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "539bb20d053e110c290a",
+      "title": "Küresel Gazeteciler Konseyi 6. Başarı Ödülleri İçin Antalya'da Bir Araya Geldi",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFNoeThJdHpZUGlyQ2pJQTh1NnJ6UmJUQjVnSEpLOFFZajVYZFpsbUNGZGlDWEF2bjlvLVp3S2lPYmVPTGJrbndVSFlNLTdGS1ZtajJyajRSYTVYZVRmVUw0cUctTktqeV9sckQ3Nno0Zk0yZU1XYTExcmpBVlBudWxlWlp3c2ExOWo0dGFlWHZlMWRrbUE4QThiTUh3eGIzVl9jQ0dWS0JtTjBwNWdrb0w2ZlV6cEloRERj0gG7AUFVX3lxTE1EU2h5OEl0ellQaXJDaklBOHU2cnpSYlRCNWdISks4UVlqNVhkWmxtQ0ZkaUNYQXZuOW8tWndLaU9iZU9MYmtud1VIWU0tN0ZLVm1qMnJqNFJhNVhlVGZVTDRxRy1OS2p5X2xyRDc2ejRmTTJlTVdhMTFyakFWUG51bGVaWndzYTE5ajR0YWVYdmUxZGttQThBOGJNSHd4YjNWX2NDR1ZLQm1OMHA1Z2tvTDZmVXpwSWhERGM?oc=5",
+      "published": "2026-11-10T01:37:46+03:00",
+      "source": "Başak Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "Başak Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFNoeThJdHpZUGlyQ2pJQTh1NnJ6UmJUQjVnSEpLOFFZajVYZFpsbUNGZGlDWEF2bjlvLVp3S2lPYmVPTGJrbndVSFlNLTdGS1ZtajJyajRSYTVYZVRmVUw0cUctTktqeV9sckQ3Nno0Zk0yZU1XYTExcmpBVlBudWxlWlp3c2ExOWo0dGFlWHZlMWRrbUE4QThiTUh3eGIzVl9jQ0dWS0JtTjBwNWdrb0w2ZlV6cEloRERj0gG7AUFVX3lxTE1EU2h5OEl0ellQaXJDaklBOHU2cnpSYlRCNWdISks4UVlqNVhkWmxtQ0ZkaUNYQXZuOW8tWndLaU9iZU9MYmtud1VIWU0tN0ZLVm1qMnJqNFJhNVhlVGZVTDRxRy1OS2p5X2xyRDc2ejRmTTJlTVdhMTFyakFWUG51bGVaWndzYTE5ajR0YWVYdmUxZGttQThBOGJNSHd4YjNWX2NDR1ZLQm1OMHA1Z2tvTDZmVXpwSWhERGM?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f815c632eca8f671cdf6",
+      "title": "Zafer Partisi Karabağlar'da 3. Olağan Kongre: Tolga Güldiken güven tazeledi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVp6YXBxVk12YmNyRnJBalNfcldfVjMzek5fbVBsckhVbUVmVW52THd3Z3ZfOVJpTFg4a0Z2RS11U1BPR3pGTHhoNXlHZjlVbjVvRjlaeWdYSkV5ZzJwTmZia1Z2RzU1YldGQnNYdWNtOHkxY3d4RUMxaHhycko4eV9HbFFYS3dwaFZpR0hRUEZyNGRGRXN3WDlOYTZvMkRwVENEeEJjMVR0dUd1Zm5j?oc=5",
+      "published": "2026-11-10T01:19:00+03:00",
+      "source": "Haber Gündemim",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haber Gündemim",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVp6YXBxVk12YmNyRnJBalNfcldfVjMzek5fbVBsckhVbUVmVW52THd3Z3ZfOVJpTFg4a0Z2RS11U1BPR3pGTHhoNXlHZjlVbjVvRjlaeWdYSkV5ZzJwTmZia1Z2RzU1YldGQnNYdWNtOHkxY3d4RUMxaHhycko4eV9HbFFYS3dwaFZpR0hRUEZyNGRGRXN3WDlOYTZvMkRwVENEeEJjMVR0dUd1Zm5j?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "0c0f98b21764770e3469",
+      "title": "Bakan Kacır, Cumhurbaşkanı Erdoğan’ın Apple Yönetim Kurulu Başkanı Cook’u kabulüne katıldı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDJ2MmFaWV9fRTVRMDdyMTB0Zk4xemNheG45X3k1Umw0SUZIODQ5SUlrQzZZUmRET3lTcHdwS1BtN1FrdWVIY0x5QktjalNVMDFMaXViaTBMVmpsYnNJUlVUeXZYMC1hQURuN2lPYzNMQkJZVHlrOVFSMDMwVTlDQUpPOXQ2TXNRQVpEMEVDb0t4dkNTZEFQc1VZbVl3ak8yVW5zMUJkcw?oc=5",
+      "published": "2026-11-10T01:16:36+03:00",
+      "source": "Hürriyet",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDJ2MmFaWV9fRTVRMDdyMTB0Zk4xemNheG45X3k1Umw0SUZIODQ5SUlrQzZZUmRET3lTcHdwS1BtN1FrdWVIY0x5QktjalNVMDFMaXViaTBMVmpsYnNJUlVUeXZYMC1hQURuN2lPYzNMQkJZVHlrOVFSMDMwVTlDQUpPOXQ2TXNRQVpEMEVDb0t4dkNTZEFQc1VZbVl3ak8yVW5zMUJkcw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d493b8bbc13170fab665",
+      "title": "Bakan Çiftçi'den \"İyi ki Erdoğan var\" paylaşımı",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0hMbGJ6N3dFYzdkaEIyX0lHRnFTeG9WWVVxbGdsaDhYRnlJY2pEeUc1OHAteHNnaXhoWjJYQ0luOGhNbXZqX19SdDFqOXlxUnV3RElGUUNkMzdsTjlVQl8xdHkzVUZmZXZncXA1cS1remNMcHg3OWc3ZS1rdXpWNGdMcHlWRENudnhvWllZS3pzRXNiMm85UWNR?oc=5",
+      "published": "2026-11-10T00:17:38+03:00",
+      "source": "Türkiye Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Türkiye Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0hMbGJ6N3dFYzdkaEIyX0lHRnFTeG9WWVVxbGdsaDhYRnlJY2pEeUc1OHAteHNnaXhoWjJYQ0luOGhNbXZqX19SdDFqOXlxUnV3RElGUUNkMzdsTjlVQl8xdHkzVUZmZXZncXA1cS1remNMcHg3OWc3ZS1rdXpWNGdMcHlWRENudnhvWllZS3pzRXNiMm85UWNR?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "dc1f5c88281bf33cfd18",
+      "title": "Bakan Çiftçi: İyi ki Erdoğan var",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2dJSGdfX3JTeXI5YUo4RFdKR0duUkZoWF9MeXpkVjlPcUJxMnRLbHJqVmsyV2MzWUYtSnBUM0tOdHBzalVUQ3c0ZVpGclROSFo5bVVoUTVzSkNPcHZRdlRxWlltMkZ0eFl6cmRYT2ZnczhoR2duaVJtSUswME45eWRpQmdZTmFzVlB4aEFJQWdNSGNvYS1BZdIBmAFBVV95cUxPT2dJSGdfX3JTeXI5YUo4RFdKR0duUkZoWF9MeXpkVjlPcUJxMnRLbHJqVmsyV2MzWUYtSnBUM0tOdHBzalVUQ3c0ZVpGclROSFo5bVVoUTVzSkNPcHZRdlRxWlltMkZ0eFl6cmRYT2ZnczhoR2duaVJtSUswME45eWRpQmdZTmFzVlB4aEFJQWdNSGNvYS1BZQ?oc=5",
+      "published": "2026-11-09T23:06:00+03:00",
+      "source": "Yeni Akit Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Akit Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2dJSGdfX3JTeXI5YUo4RFdKR0duUkZoWF9MeXpkVjlPcUJxMnRLbHJqVmsyV2MzWUYtSnBUM0tOdHBzalVUQ3c0ZVpGclROSFo5bVVoUTVzSkNPcHZRdlRxWlltMkZ0eFl6cmRYT2ZnczhoR2duaVJtSUswME45eWRpQmdZTmFzVlB4aEFJQWdNSGNvYS1BZdIBmAFBVV95cUxPT2dJSGdfX3JTeXI5YUo4RFdKR0duUkZoWF9MeXpkVjlPcUJxMnRLbHJqVmsyV2MzWUYtSnBUM0tOdHBzalVUQ3c0ZVpGclROSFo5bVVoUTVzSkNPcHZRdlRxWlltMkZ0eFl6cmRYT2ZnczhoR2duaVJtSUswME45eWRpQmdZTmFzVlB4aEFJQWdNSGNvYS1BZQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "6fb1763ac42b861c89c3",
+      "title": "Zafer Partisi İl Başkanı Büyükşen, 10 Kasım İçin Açıklama Yaptı",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONW00T05JUkhmaU5pMnVJSU1XREl6WUlxQUpKR0VvWVBrYnJqZ0JuMWc1Tnpfek1XeVVPV2xGMUN5M21KWFpfQWpTa3ZDdHl0WmRVSmhOWHZMbnpDbnVPbzYtNDlXdDN3Z19rR0t5Q3BJelFsMWhCZ0VYSVFGM2VvdWRPbEhTUHY0dG5UMjZ3eGpldVRYdlQzejJBSGVFLU5lSWpJbjlzUlNVNXVGM1dXeUhHSknSAbQBQVVfeXFMTjVtNE9OSVJIZmlOaTJ1SUlNV0RJellJcUFKSkdFb1lQa2JyamdCbjFnNU56X3pNV3lVT1dsRjFDeTNtSlhaX0FqU2t2Q3R5dFpkVUpoTlh2TG56Q251T282LTQ5V3Qzd2dfa0dLeUNwSXpRbDFoQmdFWElRRjNlb3VkT2xIU1B2NHRuVDI2d3hqZXVUWHZUM3oyQUhlRS1OZUlqSW45c1JTVTV1RjNXV3lIR0pJ?oc=5",
+      "published": "2026-11-09T22:45:11+03:00",
+      "source": "Kastamonu Gündem Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Kastamonu Gündem Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONW00T05JUkhmaU5pMnVJSU1XREl6WUlxQUpKR0VvWVBrYnJqZ0JuMWc1Tnpfek1XeVVPV2xGMUN5M21KWFpfQWpTa3ZDdHl0WmRVSmhOWHZMbnpDbnVPbzYtNDlXdDN3Z19rR0t5Q3BJelFsMWhCZ0VYSVFGM2VvdWRPbEhTUHY0dG5UMjZ3eGpldVRYdlQzejJBSGVFLU5lSWpJbjlzUlNVNXVGM1dXeUhHSknSAbQBQVVfeXFMTjVtNE9OSVJIZmlOaTJ1SUlNV0RJellJcUFKSkdFb1lQa2JyamdCbjFnNU56X3pNV3lVT1dsRjFDeTNtSlhaX0FqU2t2Q3R5dFpkVUpoTlh2TG56Q251T282LTQ5V3Qzd2dfa0dLeUNwSXpRbDFoQmdFWElRRjNlb3VkT2xIU1B2NHRuVDI2d3hqZXVUWHZUM3oyQUhlRS1OZUlqSW45c1JTVTV1RjNXV3lIR0pJ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "98cba85cea1def2bbd51",
+      "title": "Bahçeli'nin Danışmanı Yıldıray Çiçek'ten Ümit Özdağ'a Sert Sözler!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObzh0VVppcDgzYlpWTU12ZkMxMVlkYWhkYXhLb0JoeXdnalAtaDdoUktZRllaUEIzSm5SbHVyX0ROLTlWZFZjaTYtSWVHQkZyYjFxUF91RlBYeEttaVhMTnRTVFNNRmtadkJ1U3Y5d2djLW5kY1ZiMmtXcEhZT2NVOTJuUzhqbmhPYjBPYzBrMFc5NGFjajBRY0tMQjZuc1XSAa8BQVVfeXFMTUdDNl9RVmE5ME1UaWFfX3FaaktZamtkbW5qNUlNcHozREF0UTFTcEU2b1c1YkNKTTBzdFJfQzBYaVlJRnB3NHZDWWo2S0F6WkJtZnhidXRJVE1mbEs0ckVaUjc0TkJvNjg3WFdSeWpMN0JSUlZGR1RBbVBuekZpNWZIbEg5M1UzUkhsU0l3YllvQzBjU1ZzamRIcHZ3V3VKeE45cTdKbGJWbWRhQjk5SQ?oc=5",
+      "published": "2026-11-09T22:33:31+03:00",
+      "source": "N Gazete",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "N Gazete",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObzh0VVppcDgzYlpWTU12ZkMxMVlkYWhkYXhLb0JoeXdnalAtaDdoUktZRllaUEIzSm5SbHVyX0ROLTlWZFZjaTYtSWVHQkZyYjFxUF91RlBYeEttaVhMTnRTVFNNRmtadkJ1U3Y5d2djLW5kY1ZiMmtXcEhZT2NVOTJuUzhqbmhPYjBPYzBrMFc5NGFjajBRY0tMQjZuc1XSAa8BQVVfeXFMTUdDNl9RVmE5ME1UaWFfX3FaaktZamtkbW5qNUlNcHozREF0UTFTcEU2b1c1YkNKTTBzdFJfQzBYaVlJRnB3NHZDWWo2S0F6WkJtZnhidXRJVE1mbEs0ckVaUjc0TkJvNjg3WFdSeWpMN0JSUlZGR1RBbVBuekZpNWZIbEg5M1UzUkhsU0l3YllvQzBjU1ZzamRIcHZ3V3VKeE45cTdKbGJWbWRhQjk5SQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "8f601ba61fa469f64ac5",
+      "title": "İzmir'deki demir çelik fabrikasındaki patlamada can kaybı 17'ye çıktı",
+      "url": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T22:21:35+03:00",
+      "source": "BBC Türkçe",
+      "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını kaybettiğini duyurdu.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1b291fac0fe0f509d5b3",
+      "title": "Zafer Partisi Karabağlar'da Tolga Güldiken güven tazeledi",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUERxZXpEbmFUcEh6TXlvVE9KTVhoUFFKRHA3bXJELXFfV25EWWNhU0poQkh4ai1KRXdtc05BRW5fTDNMOTBvSkltSVdWSjZNOXpjSTZPSFNMNHN0aEp1a3ZaWVIzNlhJTDZ4VmtJRVdjeERVMk80RC1HU2RKbzlGWERhc1Zidmp5NEs2aW92NUFYOXlGM1JZ?oc=5",
+      "published": "2026-11-09T22:02:08+03:00",
+      "source": "Haber Ege",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haber Ege",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUERxZXpEbmFUcEh6TXlvVE9KTVhoUFFKRHA3bXJELXFfV25EWWNhU0poQkh4ai1KRXdtc05BRW5fTDNMOTBvSkltSVdWSjZNOXpjSTZPSFNMNHN0aEp1a3ZaWVIzNlhJTDZ4VmtJRVdjeERVMk80RC1HU2RKbzlGWERhc1Zidmp5NEs2aW92NUFYOXlGM1JZ?oc=5"
+        },
+        {
+          "name": "Son Mühür",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXYxZWpiX1p4Tm5jV0M4NldJOG5mVnVadl9CT3Y5eVhkakZzVE82dndtd0c5NUNVb2NYb1VUbERhWlpaSjNkRzBKSmNlc1ByekE0Q2hoUVA0dUkzSjVSZ3YxM0kySjVhWk40VVk5U1FHaWR3TGZpek5mZUxWN3BSRmtHamtxM0l5?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "b6f4a68d8b473ce5aceb",
+      "title": "Bozkurt’tan Zafer Partisi’ne istifa göndermesi",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EMUVkRkxKeUVRYTFKWFMyUEMwMGtqWHZhd1ZEeTJjZ2VXY0ZGMG92Rk5LV3ZuWTVXSDBZZFJFSTJ4VGU2OTE1d2t1TmktUVhFalNxTlBQNmlCbjVYSFkzQVVCRWk2VFpGNlhPbHZ1UkhzdU5qclRCUWZRWm9tYnM?oc=5",
+      "published": "2026-11-09T21:40:00+03:00",
+      "source": "Aydın Hedef Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Aydın Hedef Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EMUVkRkxKeUVRYTFKWFMyUEMwMGtqWHZhd1ZEeTJjZ2VXY0ZGMG92Rk5LV3ZuWTVXSDBZZFJFSTJ4VGU2OTE1d2t1TmktUVhFalNxTlBQNmlCbjVYSFkzQVVCRWk2VFpGNlhPbHZ1UkhzdU5qclRCUWZRWm9tYnM?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "0340e5918fb36623b520",
+      "title": "Zafer Partisi Bafra İlçe Başkanı İsmail Ünlü’den Öcalan’a ayrıcalık iddialarına tepki",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW9mNW14UTJ0Y2xpM3labDN5TXRUd0NRR2g1cWNleE1aekZVUUFTS0xScnlHM1lid05KSk5OdTBkRE5UYU54TGlMR3FyZW00UXRBOU5sc1FORGkwdFMxRmdyV1FpLXlHUGRKNGQ4UElua2xxRWREdDNvUDZoNU40ZFBxeWxjdXhOd3VxSHlNZWw2aUpiZUhDMGhBdXN3YXExQVNqU3BTNWZUUzBQRXN1TEJOTjNZTzhyeUNqVw?oc=5",
+      "published": "2026-11-09T21:27:00+03:00",
+      "source": "Bafra Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Bafra Haber",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW9mNW14UTJ0Y2xpM3labDN5TXRUd0NRR2g1cWNleE1aekZVUUFTS0xScnlHM1lid05KSk5OdTBkRE5UYU54TGlMR3FyZW00UXRBOU5sc1FORGkwdFMxRmdyV1FpLXlHUGRKNGQ4UElua2xxRWREdDNvUDZoNU40ZFBxeWxjdXhOd3VxSHlNZWw2aUpiZUhDMGhBdXN3YXExQVNqU3BTNWZUUzBQRXN1TEJOTjNZTzhyeUNqVw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "ee0a622fe89db623fdc2",
+      "title": "Erdoğan'dan kabine sonrası açıklamalar: Fon soruşturmasında taviz yok",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2FtUDlpSy1PUFd5SWdIcjhYZXJQdTFIMkdXTXBycVFSWHB6N1c5ZXlqTU5RdU82dzBNelMzNUtKMHp5VUV0Q05SMDF6bkhJc2t3LTFwbmRDU3o5NW9sa3BqLTBKdFBuZjViUjJtNjhycjJPc19hdkRiaFpwTGdTeTFiRHAzLXNYVXZKQzhjVlhfRmVyUGVtVllHTXNuTXdkR1MxaV9sRDBaV2dpOWFQdTZ3?oc=5",
+      "published": "2026-11-09T21:20:19+03:00",
+      "source": "Yeniçağ Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeniçağ Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2FtUDlpSy1PUFd5SWdIcjhYZXJQdTFIMkdXTXBycVFSWHB6N1c5ZXlqTU5RdU82dzBNelMzNUtKMHp5VUV0Q05SMDF6bkhJc2t3LTFwbmRDU3o5NW9sa3BqLTBKdFBuZjViUjJtNjhycjJPc19hdkRiaFpwTGdTeTFiRHAzLXNYVXZKQzhjVlhfRmVyUGVtVllHTXNuTXdkR1MxaV9sRDBaV2dpOWFQdTZ3?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "fac4e7305e0ec162aa30",
+      "title": "Yeni Parti'de yönetim yapısı nasıl değişiyor?",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52ZXJQbU9fcXN1aFNzeEFCbGtDSUN5TkpRWFp4aFpzelRUMEVkLTNxaTlIdzdMZTdZVkoxWFk0QlZfVWtzajE1TF9YNFBmSTJzTzRiUW1RQ1M2Z0hVQ1HSAWNBVV95cUxQc1p2M0d2aXFQNXA4cHB0SHV5TWRRRzR4LWJKek1CaVNVMmoxbzhNaERnSUpXZWVwUHBEbjZyOXQxSVVOY0Zid2ZlOXNPY0NuNDd0bmJ0dzl4OEc1TVZJMUM5SGc?oc=5",
+      "published": "2026-11-09T21:12:34+03:00",
+      "source": "BBC",
+      "summary": "Yeni Parti, 14-15 Kasım'da yapılacak ilk olağan kurultayında parti yönetimini genişletme kararı aldı. Kurucular Kurulu kararıyla, kurultayda seçilecek Parti Meclisi'nin (PM) üye sayısı 80'den 150'ye çıkarıldı. PM'nin örgütlenme, yasama ve politika geliştirme olmak üzere üç ayrı çalışma alanına ayrılması kararlaştırıldı.",
+      "summaryLimited": false,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d27c/live/c2c4dab0-dc63-11f1-8fe6-5becaee5408f.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52ZXJQbU9fcXN1aFNzeEFCbGtDSUN5TkpRWFp4aFpzelRUMEVkLTNxaTlIdzdMZTdZVkoxWFk0QlZfVWtzajE1TF9YNFBmSTJzTzRiUW1RQ1M2Z0hVQ1HSAWNBVV95cUxQc1p2M0d2aXFQNXA4cHB0SHV5TWRRRzR4LWJKek1CaVNVMmoxbzhNaERnSUpXZWVwUHBEbjZyOXQxSVVOY0Zid2ZlOXNPY0NuNDd0bmJ0dzl4OEc1TVZJMUM5SGc?oc=5"
+        },
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/c65yny8m1kzyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "7a31fe1c9bb1a6d16497",
+      "title": "Zafer Partisi’nden Fon Soruşturmasına Tepki: “Soygunun Kozmik Odasını Karanlıkta mı Bırakıyorsunuz?”",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXdkWEtpdnZNY2lLb2tFRXJUWmVBa0xURU43YmpLcFVXakxNZEVuRFpqTTlobzNPeGVwYmhfNFpBX3pzTnFNZDNvX2NZWjVuVmJoNzNiRFJ5Z29zSFBma3JreU9KaUltOGRMN09DVHVTc2NXY3hvbHZ4cWVsUDMzWWVlSHdfTWpIbGVzZXo5ZVhUS05ldzVzeVpIVWZHYmE4eVNidU9maHAzUUdBSlpqS1ZCdUN2bnNUamJLUnBB0gHDAUFVX3lxTFB0enhfbXBGMVZiN2dpWlptZU9uQkZtQjlvYU9lY0FKeFNVdHlPenFVM3d6SEszRUJ2OGxZbUhIY3ZqNnYtZVJaMGVLcGIwdkpPSGZwbURvZzlJLS1nVHF0YjgyelFORVhHaUJpLTB6dHNpbVVFTEp1cThnaldTck5GVGh3ZDJuQU1rdjluLWN5VU43WE12eHFWeW9rY2swWlhtMFNQb0xjTXFsQWlmck0yM2g5d3BpSS1mSDVYbEloZWFHYw?oc=5",
+      "published": "2026-11-09T21:05:00+03:00",
+      "source": "NNC Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "NNC Haber",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXdkWEtpdnZNY2lLb2tFRXJUWmVBa0xURU43YmpLcFVXakxNZEVuRFpqTTlobzNPeGVwYmhfNFpBX3pzTnFNZDNvX2NZWjVuVmJoNzNiRFJ5Z29zSFBma3JreU9KaUltOGRMN09DVHVTc2NXY3hvbHZ4cWVsUDMzWWVlSHdfTWpIbGVzZXo5ZVhUS05ldzVzeVpIVWZHYmE4eVNidU9maHAzUUdBSlpqS1ZCdUN2bnNUamJLUnBB0gHDAUFVX3lxTFB0enhfbXBGMVZiN2dpWlptZU9uQkZtQjlvYU9lY0FKeFNVdHlPenFVM3d6SEszRUJ2OGxZbUhIY3ZqNnYtZVJaMGVLcGIwdkpPSGZwbURvZzlJLS1nVHF0YjgyelFORVhHaUJpLTB6dHNpbVVFTEp1cThnaldTck5GVGh3ZDJuQU1rdjluLWN5VU43WE12eHFWeW9rY2swWlhtMFNQb0xjTXFsQWlmck0yM2g5d3BpSS1mSDVYbEloZWFHYw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "fec72c70090dafb1acb2",
+      "title": "Cumhurbaşkanı Erdoğan'dan Türk dizileri açıklaması! \"Türkiye'nin marka değerini artırıyor\"",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWIzNzNyTWtfY0kwUHhaOXBiV1JGM0xmNklOZDBIVVB4Y1pCWFU2SlNKNWZhSFB0aGpxVjZDVEZjVzFvNHphUW5hdDlTQXMwOGctbHNoS1I4M1R4VExKYzZ4Y3NBUUREOHlrWnZULVctdFk3MkZ5VmVsRFZEaGlnakthbG44UnZhLWcyM0g5cFlBNDExdExFdWh4UjJndzEwZ2VZU1dMcERYRmlzcktta3dkdzZCekxLc0Q2VkgycXdJUlk?oc=5",
+      "published": "2026-11-09T20:11:00+03:00",
+      "source": "CNN Türk",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWIzNzNyTWtfY0kwUHhaOXBiV1JGM0xmNklOZDBIVVB4Y1pCWFU2SlNKNWZhSFB0aGpxVjZDVEZjVzFvNHphUW5hdDlTQXMwOGctbHNoS1I4M1R4VExKYzZ4Y3NBUUREOHlrWnZULVctdFk3MkZ5VmVsRFZEaGlnakthbG44UnZhLWcyM0g5cFlBNDExdExFdWh4UjJndzEwZ2VZU1dMcERYRmlzcktta3dkdzZCekxLc0Q2VkgycXdJUlk?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5f061d5dc9632406f6ec",
+      "title": "Aliağa’da patlama… Ümit Özdağ’dan taziye mesajı",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtdlhwTDZtMDh3dFlCQWV6SjlFVlJPOUtlZ2N3a3hjbTVlLTFyeGRuMGJHX1hFM2cwLXFENnVhek45WXFkVE94UFdSV0dWazY0d1RRa2hkLWt5OUUwT2tDZl8wTjhYQ3RKekNoQVFGV0M1dFBaQ0p6V3k2RU4?oc=5",
+      "published": "2026-11-09T20:10:04+03:00",
+      "source": "GazeteKalem",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "GazeteKalem",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtdlhwTDZtMDh3dFlCQWV6SjlFVlJPOUtlZ2N3a3hjbTVlLTFyeGRuMGJHX1hFM2cwLXFENnVhek45WXFkVE94UFdSV0dWazY0d1RRa2hkLWt5OUUwT2tDZl8wTjhYQ3RKekNoQVFGV0M1dFBaQ0p6V3k2RU4?oc=5"
+        },
+        {
+          "name": "Anka Haber",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2lhWE15WGtETEdUeVY2VVBISDZQbm13dW5OdGFOQTQ4aGlLN01MSm1YdVU5emNVaURzNXpwT2VBdTNDVXJfTmtrSkpWMWY2UkhrTTd1Vno1TlVEc0xSd2UzSE1VNmZOVGFUVmlNb0U4cGQ0UDJHNXg0SE92WGVMV0h5aTVhdWtjeXhv?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "045b9688543a26e1ea0b",
+      "title": "Ümit Özdağ, Aliağa patlaması için taziye ve yaralılara acil şifa mesajı paylaştı",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmpXUlkzNnlTVWo2NFc2djg0QzcwWERncXlNU3N3Z0hocjVuT3doMmVKSENiN25lSnRNTmxFTW1GQTJNV0lRMkVWSS0zdHhsRFFFcTcwTTEyOW5aSFhYLVhzN0VHRFN0bVFUQ2Y4dUlKSzVCNldPTWo3T1pQdzcybjJLMEZicy1xLTFGTTRPSEhkd0drQWtIczlvTEfSAZwBQVVfeXFMT2JqV1JZMzZ5U1VqNjRXNnY4NEM3MFhEZ3F5TVNzd2dIaHI1bk93aDJlSkhDYjduZUp0TU5sRU1tRkEyTVdJUTJFVkktM3R4bERRRXE3ME0xMjluWkhYWC1YczdFR0RTdG1RVENmOHVJSks1QjZXT01qN09aUHc3Mm4ySzBGYnMtcS0xRk00T0hIZHdHa0FrSHM5b0xH?oc=5",
+      "published": "2026-11-09T20:09:08+03:00",
+      "source": "Son Dakika",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmpXUlkzNnlTVWo2NFc2djg0QzcwWERncXlNU3N3Z0hocjVuT3doMmVKSENiN25lSnRNTmxFTW1GQTJNV0lRMkVWSS0zdHhsRFFFcTcwTTEyOW5aSFhYLVhzN0VHRFN0bVFUQ2Y4dUlKSzVCNldPTWo3T1pQdzcybjJLMEZicy1xLTFGTTRPSEhkd0drQWtIczlvTEfSAZwBQVVfeXFMT2JqV1JZMzZ5U1VqNjRXNnY4NEM3MFhEZ3F5TVNzd2dIaHI1bk93aDJlSkhDYjduZUp0TU5sRU1tRkEyTVdJUTJFVkktM3R4bERRRXE3ME0xMjluWkhYWC1YczdFR0RTdG1RVENmOHVJSks1QjZXT01qN09aUHc3Mm4ySzBGYnMtcS0xRk00T0hIZHdHa0FrSHM5b0xH?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "616c7a83b90d7981cdb6",
+      "title": "Ümit Özdağ, Aliağa'daki fabrika patlamasında ölen işçilere taziye mesajı yayımladı",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUFZQc3FtX3pIUDI5Vm5IUW0zX2JEdHBTTjNNWV9YOEJVYlZBTWNxYVRQOTQzeVMtQ1hLQ0ZMeTFmUEs3ajFRTk9oRTBwdkhmWUlZT1ptR21PUTk5N2pFYjE0TXU5X0lBT2FQNjVxTUdXYXpTUGZXT0lYbXBlb1VHTFA2MWRwRHRsa0dPOWFtYXd4T2tSNlF4N1BB0gGaAUFVX3lxTE9QVlBzcW1fekhQMjlWbkhRbTNfYkR0cFNOM01ZX1g4QlViVkFNY3FhVFA5NDN5Uy1DWEtDRkx5MWZQSzdqMVFOT2hFMHB2SGZZSVlPWm1HbU9ROTk3akViMTRNdTlfSUFPYVA2NXFNR1dhelNQZldPSVhtcGVvVUdMUDYxZHBEdGxrR085YW1hd3hPa1I2UXg3UEE?oc=5",
+      "published": "2026-11-09T20:05:38+03:00",
+      "source": "Haberler",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haberler",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUFZQc3FtX3pIUDI5Vm5IUW0zX2JEdHBTTjNNWV9YOEJVYlZBTWNxYVRQOTQzeVMtQ1hLQ0ZMeTFmUEs3ajFRTk9oRTBwdkhmWUlZT1ptR21PUTk5N2pFYjE0TXU5X0lBT2FQNjVxTUdXYXpTUGZXT0lYbXBlb1VHTFA2MWRwRHRsa0dPOWFtYXd4T2tSNlF4N1BB0gGaAUFVX3lxTE9QVlBzcW1fekhQMjlWbkhRbTNfYkR0cFNOM01ZX1g4QlViVkFNY3FhVFA5NDN5Uy1DWEtDRkx5MWZQSzdqMVFOT2hFMHB2SGZZSVlPWm1HbU9ROTk3akViMTRNdTlfSUFPYVA2NXFNR1dhelNQZldPSVhtcGVvVUdMUDYxZHBEdGxrR085YW1hd3hPa1I2UXg3UEE?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5c952ced882f88ef9d01",
+      "title": "Büyükşen: 'Atatürk Türk milletinin önüne ufuklar açtı'",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTZRNUowZzMzRHU2NTZCcjNkMzRYQi1UN0pYV2RlYTJrNVNCakJ4bEdQTXJXV05tUFBhQ3h1VVZ5Wnktd25QendCcTEwNkN3MWF2b0hidmpjYWpZSWNTNzgwcWpMNnJidnZpTXREUVNwWlJIc0Y0S0tHNzBGdmZWTXNjMUx2S05DQnhwekwyVzctQzNaRlIzZEFLV2UxTk5iUzAyRdIBpAFBVV95cUxOMTZRNUowZzMzRHU2NTZCcjNkMzRYQi1UN0pYV2RlYTJrNVNCakJ4bEdQTXJXV05tUFBhQ3h1VVZ5Wnktd25QendCcTEwNkN3MWF2b0hidmpjYWpZSWNTNzgwcWpMNnJidnZpTXREUVNwWlJIc0Y0S0tHNzBGdmZWTXNjMUx2S05DQnhwekwyVzctQzNaRlIzZEFLV2UxTk5iUzAyRQ?oc=5",
+      "published": "2026-11-09T20:00:00+03:00",
+      "source": "Kastamonu Güncel",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Kastamonu Güncel",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTZRNUowZzMzRHU2NTZCcjNkMzRYQi1UN0pYV2RlYTJrNVNCakJ4bEdQTXJXV05tUFBhQ3h1VVZ5Wnktd25QendCcTEwNkN3MWF2b0hidmpjYWpZSWNTNzgwcWpMNnJidnZpTXREUVNwWlJIc0Y0S0tHNzBGdmZWTXNjMUx2S05DQnhwekwyVzctQzNaRlIzZEFLV2UxTk5iUzAyRdIBpAFBVV95cUxOMTZRNUowZzMzRHU2NTZCcjNkMzRYQi1UN0pYV2RlYTJrNVNCakJ4bEdQTXJXV05tUFBhQ3h1VVZ5Wnktd25QendCcTEwNkN3MWF2b0hidmpjYWpZSWNTNzgwcWpMNnJidnZpTXREUVNwWlJIc0Y0S0tHNzBGdmZWTXNjMUx2S05DQnhwekwyVzctQzNaRlIzZEFLV2UxTk5iUzAyRQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "8a2c265b40ac8ffcc481",
+      "title": "Bakan Tekin: Türkiye küresel bir güç adasına dönüşüyor",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTW5WaGtUdGN6SVRvZWJwYWN0anN5Y0t5VVBIZVJWcUs5aG51WjhlLXFHT2VVakdRQ240OTd4cWd1RjRJeHNVUEtnQUdfdTBXTzdPYUs3SDRlZ2I1ZU0tanJoWll6WEhDclk0ZWdGSkd1QWU3Z1A3dFhmRlRDMTVzdFRHeGktZw?oc=5",
+      "published": "2026-11-09T19:59:55+03:00",
+      "source": "hibya.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "hibya.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTW5WaGtUdGN6SVRvZWJwYWN0anN5Y0t5VVBIZVJWcUs5aG51WjhlLXFHT2VVakdRQ240OTd4cWd1RjRJeHNVUEtnQUdfdTBXTzdPYUs3SDRlZ2I1ZU0tanJoWll6WEhDclk0ZWdGSkd1QWU3Z1A3dFhmRlRDMTVzdFRHeGktZw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "9c24599cdb79905ceb95",
+      "title": "Cumhurbaşkanı Erdoğan'dan Terörsüz Türkiye açıklaması: Yeni gelişmeleri duyurdu",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVNoMGN1Yk5iUTkzanAteDRzXzlvdHgtRDJ5bjF6VnZQRmZqZGtWbXpmeWc3a0dZWi1kYmwxcmF0TFo3RUlTZy10YzFCVTFNeTczU1UxbUZDY3MtcUctcUxVWVB3UVBqOS1uU2pPWHR1VXdrM29vS0VncHpaZjRuZTVJTGM4TG1UT3U5NzFKSGhhVDBWN1VKT3NySUEzVFIyTzh5MDFGZWctSEs1Y3YzMHhvVnVQQzg?oc=5",
+      "published": "2026-11-09T19:26:00+03:00",
+      "source": "F5Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "F5Haber",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVNoMGN1Yk5iUTkzanAteDRzXzlvdHgtRDJ5bjF6VnZQRmZqZGtWbXpmeWc3a0dZWi1kYmwxcmF0TFo3RUlTZy10YzFCVTFNeTczU1UxbUZDY3MtcUctcUxVWVB3UVBqOS1uU2pPWHR1VXdrM29vS0VncHpaZjRuZTVJTGM4TG1UT3U5NzFKSGhhVDBWN1VKT3NySUEzVFIyTzh5MDFGZWctSEs1Y3YzMHhvVnVQQzg?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "bd20092e93f2ab69a219",
+      "title": "Cumhurbaşkanı Erdoğan'dan kabine sonrası mesajlar - Olay Gazetesi Bursa",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGlwSndvb21ja2c2QmJGTWRZUTBzdmhxbDhUMjhvc0xjaE90YzdPbU5fYjJfaEZZbm9CLWgybS1ldndXYlgzUlI5SGhEQWVyNkpMS2JSRzFXRGRGcW1MdlVOS0JULXhhRW5HbXBRMWhFTlczWTNTUldpQmRKZk5RSC02b1VZSVXSAY8BQVVfeXFMT05rejlQWnpKaW1WQVZJaThEX1NlSExBV1lXU0pxTENfay1jaFBXTWVFc1dUd3lDdFVDYlBMOXpMTmFtbkdYbTlPWkhCMVNCT1BLaFpXb3ZfdGQwejl3OERHSmtpeG1rM3ZIYjBBV2hjMWdkQ1VuanB2cTk0NmNsWW84bENSTXo0NEFxbnd5R0U?oc=5",
+      "published": "2026-11-09T19:24:36+03:00",
+      "source": "Olay Gazetesi Bursa",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Olay Gazetesi Bursa",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGlwSndvb21ja2c2QmJGTWRZUTBzdmhxbDhUMjhvc0xjaE90YzdPbU5fYjJfaEZZbm9CLWgybS1ldndXYlgzUlI5SGhEQWVyNkpMS2JSRzFXRGRGcW1MdlVOS0JULXhhRW5HbXBRMWhFTlczWTNTUldpQmRKZk5RSC02b1VZSVXSAY8BQVVfeXFMT05rejlQWnpKaW1WQVZJaThEX1NlSExBV1lXU0pxTENfay1jaFBXTWVFc1dUd3lDdFVDYlBMOXpMTmFtbkdYbTlPWkhCMVNCT1BLaFpXb3ZfdGQwejl3OERHSmtpeG1rM3ZIYjBBV2hjMWdkQ1VuanB2cTk0NmNsWW84bENSTXo0NEFxbnd5R0U?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "695d1c3858a3273a47f4",
+      "title": "ADALET BAKANLIĞININ 2027 YILI BÜTÇESİ TBMM PLAN VE BÜTÇE KOMİSYONUNDA",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02WGRSRGpqZ2EzbGRlbUpURVdkaVYzYXZ0WEtRSFlQTHZ4aWZKWERlX2ZZWDYyRHVIVm8xQWtTTDNRU3FSVjM4NkJHNUZXdy1NbndYTjh4bzYydlNnR3lERWlvcEpIVXU5d0F2QlN4LVFjM1ZzeERSeGZnbw?oc=5",
+      "published": "2026-11-09T19:19:06+03:00",
+      "source": "TBMM",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TBMM",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02WGRSRGpqZ2EzbGRlbUpURVdkaVYzYXZ0WEtRSFlQTHZ4aWZKWERlX2ZZWDYyRHVIVm8xQWtTTDNRU3FSVjM4NkJHNUZXdy1NbndYTjh4bzYydlNnR3lERWlvcEpIVXU5d0F2QlN4LVFjM1ZzeERSeGZnbw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "c6abb2a98327e7674796",
+      "title": "Küresel Krizlerin Gölgesinde Türkiye'nin Çok Yönlü Dış Politika Hamlesi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVVKdGM5b3k3UnZQLVZ0VjRRT2xBQl9xQkRtSjZxOG15dTZFZnZpSVJTMnR0X2JNSVZKalR2Tk5NbUltcU5KRGlEXzhuallXb1htdXE0bW9RaEkzY0c5eFpuTktwTVY2aXRyS1ZrY1dYQXVQbjBqMXdFczhRVWV2VmszQ0hsaUowaTlUbE9XUlBwY25pOG15U2VsYWdjRDF1ZDhjOXpPa0RWUENYNkJJ?oc=5",
+      "published": "2026-11-09T19:04:00+03:00",
+      "source": "Dosya Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "Dosya Haber",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVVKdGM5b3k3UnZQLVZ0VjRRT2xBQl9xQkRtSjZxOG15dTZFZnZpSVJTMnR0X2JNSVZKalR2Tk5NbUltcU5KRGlEXzhuallXb1htdXE0bW9RaEkzY0c5eFpuTktwTVY2aXRyS1ZrY1dYQXVQbjBqMXdFczhRVWV2VmszQ0hsaUowaTlUbE9XUlBwY25pOG15U2VsYWdjRDF1ZDhjOXpPa0RWUENYNkJJ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "79f88381bfe18521a7e6",
+      "title": "Ada Hastanesi Skandal İddiaların Perde Arkasını Açıkladı! Zafer Partisi Giresun İl Başkanı, Hastaneye İcralık Olan Borcunu Ödemediği İçin Husumet Besliyormuş!",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR2tZWG0xOUNPbFJFTEtXVTNETFJLTk9PZ0xtUklKZ2toQ182eGdONVBvVXp6QjBRbE1UX1Y1Nzc2MUgzamthU0JrQURobFRPdjh3bWtTR0dHanJzczBNNFI4MXI0djhZN015MmQydmdWd0hNZG1ZN2JDR2pKZXA0S19Lb01GZFh3RjBoY1VoT3RTUWlYXzJkdXZkd2ZWQzYzMWF2dXZsSF9rMTJHNXRCajZTWDdPSDJkZ0hxZDUxZDlVTEVEZkpFeHpieXZsQlh4U2MwUjVqN3BiWkgtNlc0alJobDNQd3RRWnZKS0gzS1RnV1lTWlRtejE5WjFXdXktdVhHR1pGby1SNDhZWWxPY3dOQ0E2dm93UnhrcWEybHVWQUVi0gGqAkFVX3lxTE5rOFdaYm1zUlVYVVFTZHJOTldPNnIwbGk5U3VmU2xndFFOaFBiY0FKc1RPMTBGMmVOYmoyUnNPcThwMmpFaTFJX1BzSG84SXJDTU1YaXZPRDZ3clpTY0hjVVRHSUJmOWpBdVhBV0hIMVdrUGpXQ29taVN5T1BVRnBIRzhMNVU0NjBMLUU0UEZLeThRSEhzT2pkTlo4RTNxU0lMMkpZVXNqREZNNXl6ZnBrQVZ1MTNFYXZTZDE3c1pSS2F3cUtPdjlkVy1fNlM1Yk1EYUp2dTZFMjY5Q3R5VmhyRk9HMnNjZGZUV1JKMEM2M2pnTk5zLU1GM3g1MkRodFFOeTFGemY1QmJUN0FVYlVFRFZfdXo4RXFCRmZ6V3dvY2pRQkhYRXVFQWc?oc=5",
+      "published": "2026-11-09T18:56:00+03:00",
+      "source": "Yeni Giresun Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Giresun Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR2tZWG0xOUNPbFJFTEtXVTNETFJLTk9PZ0xtUklKZ2toQ182eGdONVBvVXp6QjBRbE1UX1Y1Nzc2MUgzamthU0JrQURobFRPdjh3bWtTR0dHanJzczBNNFI4MXI0djhZN015MmQydmdWd0hNZG1ZN2JDR2pKZXA0S19Lb01GZFh3RjBoY1VoT3RTUWlYXzJkdXZkd2ZWQzYzMWF2dXZsSF9rMTJHNXRCajZTWDdPSDJkZ0hxZDUxZDlVTEVEZkpFeHpieXZsQlh4U2MwUjVqN3BiWkgtNlc0alJobDNQd3RRWnZKS0gzS1RnV1lTWlRtejE5WjFXdXktdVhHR1pGby1SNDhZWWxPY3dOQ0E2dm93UnhrcWEybHVWQUVi0gGqAkFVX3lxTE5rOFdaYm1zUlVYVVFTZHJOTldPNnIwbGk5U3VmU2xndFFOaFBiY0FKc1RPMTBGMmVOYmoyUnNPcThwMmpFaTFJX1BzSG84SXJDTU1YaXZPRDZ3clpTY0hjVVRHSUJmOWpBdVhBV0hIMVdrUGpXQ29taVN5T1BVRnBIRzhMNVU0NjBMLUU0UEZLeThRSEhzT2pkTlo4RTNxU0lMMkpZVXNqREZNNXl6ZnBrQVZ1MTNFYXZTZDE3c1pSS2F3cUtPdjlkVy1fNlM1Yk1EYUp2dTZFMjY5Q3R5VmhyRk9HMnNjZGZUV1JKMEM2M2pnTk5zLU1GM3g1MkRodFFOeTFGemY1QmJUN0FVYlVFRFZfdXo4RXFCRmZ6V3dvY2pRQkhYRXVFQWc?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "99051ded4bd9c0366c30",
+      "title": "Fon soruşturmaları: Lydia Holding yöneticisi Enver Çevik gözaltına alındı",
+      "url": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T18:27:43+03:00",
+      "source": "BBC Türkçe",
+      "summary": "Fon soruştrmalarıyla ilgili olarak 9 Kasım'da aralarında Enver Öevik'in olduğu iş insanları gözaltına alındı. Adalet Bakanı Akın Gürlek 9 Kasım itibarıyla soruşturma kapsamında 120'si tutuklu 464 şüpheli bulunduğunu söyledi.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da3e/live/c9a37330-dc51-11f1-a869-656dc96bd12d.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "ef894adba93014b952de",
+      "title": "Başkan Erdoğan'ın liderliğinde güven ve huzur ikliminin adresi Türkiye! Çok yönlü diplomasi ve dış politikada doğru hamleler",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ3VXNWdsRXFvZ1pBbWJUWGxHbE5tdTg0SW8wbDEwYU5iZ3c3WGtIaUp1N1Mxbjh6OWE0SHJMNW90M3l1T1FRSnhaRmpaSXlnV1VQVDhGaFhzejliR1ZKLTRaUGJNLXhDNlA3X0laM3IxZ0dYaXI2YlUtamVvTWxSLWFZRnY5SWVGbUtoaDZZd2NXS2FKek9BU2hma0F4VUFrM3A5dnhaU0ZfbG13M0FFcGk4VTJ1WmFnOFh0QlBUODNGT2JMdUdQUllXelppbTFYZnEyLVNNek5OcHUwSm9UcDdGX0Y5LXhIc0NtR003ZWg0aUFXY1FHeNIB-wFBVV95cUxObFE5M2U5RjVOZmYyaU5xMGY3TUhOMnljV2V5b1lBREVIQlNzcVVHZ09aUXB0TDhPRTVTOEZIZDBzSlAtUFdpWjdBNDJjQi1VeVZmU3hPLUVXSXIyb0cwUUpZYkVxSVBjVHNpTEN4Zy11QjgtMmUxbV80cjFGaHhqR3k3d2ZHRjBrdzNRQ0l4dlY3QU5HNTBOd3VxNEpzYmhtYkkzcHdNQV93dEF1dXZrMDNpNlhuWktmWlBpYjBCaGdSbkhxeFR6NkJQVTJoemZLSEJLbGZJTWJxbG1lRllveWp3ZTlpMTlhNHczbFA0emtkWkFROHZnNHd3UQ?oc=5",
+      "published": "2026-11-09T17:36:54+03:00",
+      "source": "Sabah",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "Sabah",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ3VXNWdsRXFvZ1pBbWJUWGxHbE5tdTg0SW8wbDEwYU5iZ3c3WGtIaUp1N1Mxbjh6OWE0SHJMNW90M3l1T1FRSnhaRmpaSXlnV1VQVDhGaFhzejliR1ZKLTRaUGJNLXhDNlA3X0laM3IxZ0dYaXI2YlUtamVvTWxSLWFZRnY5SWVGbUtoaDZZd2NXS2FKek9BU2hma0F4VUFrM3A5dnhaU0ZfbG13M0FFcGk4VTJ1WmFnOFh0QlBUODNGT2JMdUdQUllXelppbTFYZnEyLVNNek5OcHUwSm9UcDdGX0Y5LXhIc0NtR003ZWg0aUFXY1FHeNIB-wFBVV95cUxObFE5M2U5RjVOZmYyaU5xMGY3TUhOMnljV2V5b1lBREVIQlNzcVVHZ09aUXB0TDhPRTVTOEZIZDBzSlAtUFdpWjdBNDJjQi1VeVZmU3hPLUVXSXIyb0cwUUpZYkVxSVBjVHNpTEN4Zy11QjgtMmUxbV80cjFGaHhqR3k3d2ZHRjBrdzNRQ0l4dlY3QU5HNTBOd3VxNEpzYmhtYkkzcHdNQV93dEF1dXZrMDNpNlhuWktmWlBpYjBCaGdSbkhxeFR6NkJQVTJoemZLSEJLbGZJTWJxbG1lRllveWp3ZTlpMTlhNHczbFA0emtkWkFROHZnNHd3UQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "c7de3ad73c4f5ad7b13a",
+      "title": "M.KEMAL ERSÖZLÜ, ŞEHİTLERİMİZİ ZİYARET EDEREK START VERDİ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTZTNzlvSjYzUkZqRFJNZ2VPdlVfMlFFVnNOeDR0U1VMX1g3TTJqa08wY3FNcWY1WWdyOHFjZjVCdjlhVTZFX25RM0lidldzRXVnV0tzV3RzWlQ5Y2FTVlpBSDM2Z292VTBINDIyTTZuTlZHb1JOVmljTnRUR2ZOT1JhSmtzNEhzemNZV21FYXd5cXpFVXVOOFJFbzF4TFlnUGdCU2tkZXBHZ9IBqgFBVV95cUxPbTZTNzlvSjYzUkZqRFJNZ2VPdlVfMlFFVnNOeDR0U1VMX1g3TTJqa08wY3FNcWY1WWdyOHFjZjVCdjlhVTZFX25RM0lidldzRXVnV0tzV3RzWlQ5Y2FTVlpBSDM2Z292VTBINDIyTTZuTlZHb1JOVmljTnRUR2ZOT1JhSmtzNEhzemNZV21FYXd5cXpFVXVOOFJFbzF4TFlnUGdCU2tkZXBHZw?oc=5",
+      "published": "2026-11-09T17:34:00+03:00",
+      "source": "Kayseri Gerçek Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Kayseri Gerçek Haber",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTZTNzlvSjYzUkZqRFJNZ2VPdlVfMlFFVnNOeDR0U1VMX1g3TTJqa08wY3FNcWY1WWdyOHFjZjVCdjlhVTZFX25RM0lidldzRXVnV0tzV3RzWlQ5Y2FTVlpBSDM2Z292VTBINDIyTTZuTlZHb1JOVmljTnRUR2ZOT1JhSmtzNEhzemNZV21FYXd5cXpFVXVOOFJFbzF4TFlnUGdCU2tkZXBHZ9IBqgFBVV95cUxPbTZTNzlvSjYzUkZqRFJNZ2VPdlVfMlFFVnNOeDR0U1VMX1g3TTJqa08wY3FNcWY1WWdyOHFjZjVCdjlhVTZFX25RM0lidldzRXVnV0tzV3RzWlQ5Y2FTVlpBSDM2Z292VTBINDIyTTZuTlZHb1JOVmljTnRUR2ZOT1JhSmtzNEhzemNZV21FYXd5cXpFVXVOOFJFbzF4TFlnUGdCU2tkZXBHZw?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "9a1349600dc8b74dd5d3",
+      "title": "CHP Grup Başkanı Öztrak, TBMM'de seçim çağrısını 'bir an önce' sözleriyle yineledi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdE9Sb1N0Tm1MczR6T0IzQ3lCa09SNXoxN0pteUJLM1BfMm1lT1A5Q3U1dDl1cFNBNVdqelBjOHU1MEoyZWJ6aEI2eXBBSnRqOXpVbjg5ekhOTk0xdVhFQWpST29CREpKcnlRZ3VXeVhjUzJybWNkV21JbVA2Z01ZQkdzR0M0ZlByU2FSb2p5NFhzZFhKSzhSa1JrWkLSAZwBQVVfeXFMTXRPUm9TdE5tTHM0ek9CM0N5QmtPUjV6MTdKbXlCSzNQXzJtZU9QOUN1NXQ5dXBTQTVXanpQYzh1NTBKMmViemhCNnlwQUp0ajl6VW44OXpITk5NMXVYRUFqUk9vQkRKSnJ5UWd1V3lYY1Mycm1jZFdtSW1QNmdNWUJHc0dDNGZQclNhUm9qeTRYc2RYSks4UmtSa1pC?oc=5",
+      "published": "2026-11-09T17:16:18+03:00",
+      "source": "Son Dakika",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdE9Sb1N0Tm1MczR6T0IzQ3lCa09SNXoxN0pteUJLM1BfMm1lT1A5Q3U1dDl1cFNBNVdqelBjOHU1MEoyZWJ6aEI2eXBBSnRqOXpVbjg5ekhOTk0xdVhFQWpST29CREpKcnlRZ3VXeVhjUzJybWNkV21JbVA2Z01ZQkdzR0M0ZlByU2FSb2p5NFhzZFhKSzhSa1JrWkLSAZwBQVVfeXFMTXRPUm9TdE5tTHM0ek9CM0N5QmtPUjV6MTdKbXlCSzNQXzJtZU9QOUN1NXQ5dXBTQTVXanpQYzh1NTBKMmViemhCNnlwQUp0ajl6VW44OXpITk5NMXVYRUFqUk9vQkRKSnJ5UWd1V3lYY1Mycm1jZFdtSW1QNmdNWUJHc0dDNGZQclNhUm9qeTRYc2RYSks4UmtSa1pC?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "1a8a8c90f3795589921e",
+      "title": "Dünya krizlerle sarsılırken Başkan Erdoğan'ın liderliğindeki Türkiye'de huzur ve güven var!",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWVYVGVLR2Q5V2Y5ZFJEaURWS3hManJXMUh6dzllTEZiVGlpU01mTkJMd2p1UjN0bTM1WnpHX3JSa2huWDJXR2ZpZ19lUXJ5UFR1Zmhfbm5wQl95Q296YjVVdEgxbzJIMVg4Z0xfNHNWOERZeFZSeFV6dklxQWl5SQ?oc=5",
+      "published": "2026-11-09T17:08:54+03:00",
+      "source": "Takvim",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "Takvim",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWVYVGVLR2Q5V2Y5ZFJEaURWS3hManJXMUh6dzllTEZiVGlpU01mTkJMd2p1UjN0bTM1WnpHX3JSa2huWDJXR2ZpZ19lUXJ5UFR1Zmhfbm5wQl95Q296YjVVdEgxbzJIMVg4Z0xfNHNWOERZeFZSeFV6dklxQWl5SQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "5bb2e6869448329040b1",
+      "title": "2 bakan İzmir’e gitti! Cumhurbaşkanı Erdoğan faciayla ilgili bilgi aldı",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1l4a3E1Mi1KUWdNVkpmV3BaYWdPTDRybFJLQVJUVWxGYnpoZEFXaW1UOHYybF9VNFJYbGl5M0pJUjRSVDRyX3lFSGxTdHVfRE1LSEZsdEw0QTBMekxPZHh0M2dlZmt5OGluR1hyMzJ1YTdxMlNOMjgtcFdFWU5VVFlvZHp2UDU2Z0lnZElkTUpRWEVNNTBQMkZBRjkxSXE0NlJUREsyWTE4S1ExZnhoS2I2b29CekXSAbMBQVVfeXFMTWk1TU94b2RxdTVhSEtyUGVVXzczemkzNmRvRFcyMDFDeUplZ3BzR0kxMmlOSDgtbURwZ3hkM1E5UDYxbFR1aUYyWnZhOEtfeWphSzlqU3NKOEpJSDNDU2daYlYyU3dIbmhfQ19EMEJ3NlJOTTNZMUxWTDZGeEkzVjZzX081Y0VYR09SdFRjZEItZHhTanRDVEVNZ0NBZzhFQjA2RllLdE9nZ21YSXhNRjdJd2c?oc=5",
+      "published": "2026-11-09T16:57:53+03:00",
+      "source": "Yeni Akit Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Akit Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1l4a3E1Mi1KUWdNVkpmV3BaYWdPTDRybFJLQVJUVWxGYnpoZEFXaW1UOHYybF9VNFJYbGl5M0pJUjRSVDRyX3lFSGxTdHVfRE1LSEZsdEw0QTBMekxPZHh0M2dlZmt5OGluR1hyMzJ1YTdxMlNOMjgtcFdFWU5VVFlvZHp2UDU2Z0lnZElkTUpRWEVNNTBQMkZBRjkxSXE0NlJUREsyWTE4S1ExZnhoS2I2b29CekXSAbMBQVVfeXFMTWk1TU94b2RxdTVhSEtyUGVVXzczemkzNmRvRFcyMDFDeUplZ3BzR0kxMmlOSDgtbURwZ3hkM1E5UDYxbFR1aUYyWnZhOEtfeWphSzlqU3NKOEpJSDNDU2daYlYyU3dIbmhfQ19EMEJ3NlJOTTNZMUxWTDZGeEkzVjZzX081Y0VYR09SdFRjZEItZHhTanRDVEVNZ0NBZzhFQjA2RllLdE9nZ21YSXhNRjdJd2c?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "b3f8b01de066c1f068a1",
+      "title": "TBMM BAŞKANI KURTULMUŞ, “ORTADOĞU’DA YENİ BİR BÖLGESEL TOPLUM SÖZLEŞMESİ ARAYIŞI” PROGRAMINDA KONUŞTU",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZWhpSUJQRkZKemI2Y0pOV3M2bEMyODBEbnpUU2hOV055TURsRVlybkFDUlh2UEtKWDVHMnEwWmJzZ0d3VjFZUlVFVmxnbHIwSzE2QzFQSGVxUW15bms3M2s0S2xTNVpsQ08zNElCTklvUFZyUUJKWnZDQQ?oc=5",
+      "published": "2026-11-09T16:39:13+03:00",
+      "source": "TBMM",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TBMM",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZWhpSUJQRkZKemI2Y0pOV3M2bEMyODBEbnpUU2hOV055TURsRVlybkFDUlh2UEtKWDVHMnEwWmJzZ0d3VjFZUlVFVmxnbHIwSzE2QzFQSGVxUW15bms3M2s0S2xTNVpsQ08zNElCTklvUFZyUUJKWnZDQQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "89578c91e365a017c4f0",
+      "title": "Türkiye-Azerbaycan arasındaki buzlar eridi mi?",
+      "url": "https://www.bbc.com/turkce/articles/c83vqvw35g4yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T16:35:18+03:00",
+      "source": "BBC Türkçe",
+      "summary": "Türkiye ile Azerbaycan arasında son iki aydır yaşanan gerilim, Cumhurbaşkanı Recep Tayyip Erdoğan ile Azerbaycan Devlet Başkanı İlham Aliyev'in 8 Kasım'da Şuşa'da yaptıkları görüşme sonunda yatışmış görünüyor.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f628/live/358d1760-dc41-11f1-b441-2b33b063138f.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/c83vqvw35g4yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "dccd94eef93e5234454c",
+      "title": "Karamahmutoğlu: AKP kadrolarıyla Türkiye beş yıl gidemez",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0RjcUEzR2hnUFpmN2Zad0RmZWU1ZkRQRHNlSlA3MGdWX1JRWlFkNjJPaEdXXzJtYVNWRTJJZllFaFZIdmFZZGd5Qk5jVTZwZ3lad3hyVUxsMTJRMWUzQXM1QVo5VGwyREVlQUxGTERtYUNGTFlPaWJYaTY4T25aUW5lRTVYMVhEQnRoTHRDS1Z6NTIwTDFlY25B?oc=5",
+      "published": "2026-11-09T16:26:00+03:00",
+      "source": "Habererk.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Habererk.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0RjcUEzR2hnUFpmN2Zad0RmZWU1ZkRQRHNlSlA3MGdWX1JRWlFkNjJPaEdXXzJtYVNWRTJJZllFaFZIdmFZZGd5Qk5jVTZwZ3lad3hyVUxsMTJRMWUzQXM1QVo5VGwyREVlQUxGTERtYUNGTFlPaWJYaTY4T25aUW5lRTVYMVhEQnRoTHRDS1Z6NTIwTDFlY25B?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "3071085127a5c7c2fa05",
+      "title": "Zafer Partisi Çarşamba'dan Öcalan hakkında suç duyurusu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXJCUXJHRkEzYnQtSWthVUZWQU1qaEZUQm92LXNRQ1JlMFBiRUpxVHZMbXpCRlpfRkU2WDlnVU9mWWJiTlBOenQtSTdRYUJVR2FOZmFnRGh3aXFLM1NYU1VQT3lrV19VMzNxRzlhZldoR3dGY0YwaGF6WmdCYUlOMWdqYzN4eElxWk80TUN2TS1EbFFsa1Uza19B?oc=5",
+      "published": "2026-11-09T16:18:07+03:00",
+      "source": "Haber Expres",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haber Expres",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXJCUXJHRkEzYnQtSWthVUZWQU1qaEZUQm92LXNRQ1JlMFBiRUpxVHZMbXpCRlpfRkU2WDlnVU9mWWJiTlBOenQtSTdRYUJVR2FOZmFnRGh3aXFLM1NYU1VQT3lrV19VMzNxRzlhZldoR3dGY0YwaGF6WmdCYUlOMWdqYzN4eElxWk80TUN2TS1EbFFsa1Uza19B?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "6e7f6cb66f56df4f2fb6",
+      "title": "Zafer Partisi Tarsus Teşkilatında yeni dönem",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFhQRjR2SHpkRFBJRE5tVUJSVDNqd0NLUHZsVFhta3JOOHh2SkRsY0c0eVNnWU5HaFdsakpfZGRSWUFMSmJiSmNYQml2OE5ITE9TQXNlQmVXcXR1VmRRcTFvU3FkV051N1gtbVhrM0FBb0ItT3lWMXNUTmNGOFBUd2Fnc3M4cHdvSzB5VURJYU91c0U?oc=5",
+      "published": "2026-11-09T16:14:00+03:00",
+      "source": "İmece Gazetesi",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "İmece Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFhQRjR2SHpkRFBJRE5tVUJSVDNqd0NLUHZsVFhta3JOOHh2SkRsY0c0eVNnWU5HaFdsakpfZGRSWUFMSmJiSmNYQml2OE5ITE9TQXNlQmVXcXR1VmRRcTFvU3FkV051N1gtbVhrM0FBb0ItT3lWMXNUTmNGOFBUd2Fnc3M4cHdvSzB5VURJYU91c0U?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "57ed3d5d4a37e29ec84d",
+      "title": "Zafer Partili Karamahmutoğlu: 'Vurguna alışmış AKP kadrolarıyla Türkiye beş yıl daha gidemez'",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHk1UHR2QnZvS3dTZ0RoR0FYWFZlbXNBb1lxREk3cnNwX25oNlpwakV4eUZkLVVFNjVaR2JmS3VpX2VmaHhEanE2Q2tGajZUVTJqb2pqLTBScE9ibmFBY3lxMnEzYTZ0dGJNYnRrclJHOTFyQ2s3QUtfOFoxQldVbXR6V1VsaVJUSlVmV1pGTUI5Z3JoVGxYalBiYUtxTFN6?oc=5",
+      "published": "2026-11-09T16:13:48+03:00",
+      "source": "Son Dakika",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Son Dakika",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHk1UHR2QnZvS3dTZ0RoR0FYWFZlbXNBb1lxREk3cnNwX25oNlpwakV4eUZkLVVFNjVaR2JmS3VpX2VmaHhEanE2Q2tGajZUVTJqb2pqLTBScE9ibmFBY3lxMnEzYTZ0dGJNYnRrclJHOTFyQ2s3QUtfOFoxQldVbXR6V1VsaVJUSlVmV1pGTUI5Z3JoVGxYalBiYUtxTFN6?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "62a4b01c71f95d5b259f",
+      "title": "Abdullah Öcalan'ın Evlenmek İsteği Kişi Kim?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnFZSHJEdDhTT3RmaU9aR2ZnNnJYZUVZaDVwMUdrVnNmVEl2bmhMMVI4Y2k1QVFfei10am5OUU12dGY5QURFUXd5YXh3WEh1SXc1c3YySmVpZnlSY3pINGtaT0JjdldNRU1DbU83NHZDZWtxZ3pJU1llQVlSWGIyYzFEZ0tGOWpzdnZJN2VOTQ?oc=5",
+      "published": "2026-11-09T16:12:45+03:00",
+      "source": "Yeni Ankara",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Ankara",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnFZSHJEdDhTT3RmaU9aR2ZnNnJYZUVZaDVwMUdrVnNmVEl2bmhMMVI4Y2k1QVFfei10am5OUU12dGY5QURFUXd5YXh3WEh1SXc1c3YySmVpZnlSY3pINGtaT0JjdldNRU1DbU83NHZDZWtxZ3pJU1llQVlSWGIyYzFEZ0tGOWpzdnZJN2VOTQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d6f3a5b65922ba8a1765",
+      "title": "Zafer Partisi Edirne İl Başkanı Konak'tan 10 Kasım Anma Mesajı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3JTWXNfWnk1bWdkd1BWQmREZk5QdTVTQXRINENSaW1PNGhqVGI2V0lWLXoyV0l1WkNsYWtBQW0zeTdvMkowNGZNOFRBa1RNRFNjWXI5RDdSUlZwa1FLdUxfcnpBZkJ3b2RYMk1lLXkzRXk3STU4bmM3YWVBbUFsVExZcTZvTmd4alN2Y1hSY1pLclVoRkVYcUpOQkdXRm9FdlFrcDJUNA?oc=5",
+      "published": "2026-11-09T16:08:44+03:00",
+      "source": "Batı Ekspres",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Batı Ekspres",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3JTWXNfWnk1bWdkd1BWQmREZk5QdTVTQXRINENSaW1PNGhqVGI2V0lWLXoyV0l1WkNsYWtBQW0zeTdvMkowNGZNOFRBa1RNRFNjWXI5RDdSUlZwa1FLdUxfcnpBZkJ3b2RYMk1lLXkzRXk3STU4bmM3YWVBbUFsVExZcTZvTmd4alN2Y1hSY1pLclVoRkVYcUpOQkdXRm9FdlFrcDJUNA?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e1aaed09eb14b440de23",
+      "title": "Ümit Özdağ’dan Aliağa’daki patlama için başsağlığı mesajı",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVFpSmRZVGRLU1dTX1NQbWMyVkZldmdWem9MdUVzQ0dRQ0hjYk8xdXY0dTdPZHdFRm05bW9TUWFJend6enNndWppSlRtU0VIQUNDNGlPWXdqM0ZiemFtWFl4OWFQdDUycUVJajl5SVdzb2RpbTdGeUdsNl9ON2lxOUJDY2RTYTNi?oc=5",
+      "published": "2026-11-09T16:02:48+03:00",
+      "source": "hibya.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "hibya.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVFpSmRZVGRLU1dTX1NQbWMyVkZldmdWem9MdUVzQ0dRQ0hjYk8xdXY0dTdPZHdFRm05bW9TUWFJend6enNndWppSlRtU0VIQUNDNGlPWXdqM0ZiemFtWFl4OWFQdDUycUVJajl5SVdzb2RpbTdGeUdsNl9ON2lxOUJDY2RTYTNi?oc=5"
+        },
+        {
+          "name": "urfadabugun",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjVmMGlYUjlESE5fbEVpTVduX2VFSUMyMnpza1ZZQzRhdDgtYkxIMG5OamljVDNuTlhfUkxmM1RXdzJzMk44VjdtaEtXak5xQnpfX2tfQUJNMUY0eFVJV25lVjR6OGJza29GMWcyUVNzU04wbGJTNlJJampORFJTZ0lROXM3M000c1VJcmIyeDRiS2dZSXFWTFd4X0NQOFNodmpF?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "79cb558770b1a4f353ca",
+      "title": "Prof. Dr. Fuat Gürdoğan yazdı: Zafer Partisi ve Milliyetçi Seçmenin Yeni Arayışı",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEYzNlR3X3k2LS01eWNuVjQxRzJZVVR3VlZVMkN6RlZDU3kxTU5SaGY2WDNWN2V6MTBfeDF1YV96SmhXQ2tTaXdHYURWeUNWS2lSNWZGeWQ3T2xLYmlCNEx2eXhTVWxCaGx1NXRvQW9keVdUcWhUWlBYSzRDdVVHZ3FQUnVIVE1hS0NyeE1Wek1yeTY1aS1FdF91WmdMTmY2?oc=5",
+      "published": "2026-11-09T15:58:31+03:00",
+      "source": "Haberiniz",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haberiniz",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEYzNlR3X3k2LS01eWNuVjQxRzJZVVR3VlZVMkN6RlZDU3kxTU5SaGY2WDNWN2V6MTBfeDF1YV96SmhXQ2tTaXdHYURWeUNWS2lSNWZGeWQ3T2xLYmlCNEx2eXhTVWxCaGx1NXRvQW9keVdUcWhUWlBYSzRDdVVHZ3FQUnVIVE1hS0NyeE1Wek1yeTY1aS1FdF91WmdMTmY2?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "f5165896e22c520aa1d9",
+      "title": "Giresun'da özel hastanede temizlik görevlisinin ameliyatlara girdiği iddiası... CİMER'e başvurusu üzerine soruşturma başlatıldı",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUEtNeEdVVnhCTzExT2ZfR1EyelhBMzJabUh5eW9wNmVGTi1WTjBqU0MzRFFKSVVqcGZ0SnlDM19iMERNQ1NCOUZTUVRTajExNUp2U3pXbVRfcndnajZ4MFp1TE5HSEVOM0V2ZGc3aURJaGNuVVFJekd5SHNWTVRtNjRTcUdNTUl2SlZSZUQ1WGxydWdyQkY5cmMtOVFHWi1NWVFOQVhNWVJ2QW50SHB5QjMwS3VFQXVUalIzTUQ1ZER4VkQyT2xkMlZZUGlUV0FqS0M4T09tQy05RlduZUJqd1dqQ2dDcnFZYW9RdHQ3ZjBPcjA?oc=5",
+      "published": "2026-11-09T15:57:55+03:00",
+      "source": "Anka Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Anka Haber",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUEtNeEdVVnhCTzExT2ZfR1EyelhBMzJabUh5eW9wNmVGTi1WTjBqU0MzRFFKSVVqcGZ0SnlDM19iMERNQ1NCOUZTUVRTajExNUp2U3pXbVRfcndnajZ4MFp1TE5HSEVOM0V2ZGc3aURJaGNuVVFJekd5SHNWTVRtNjRTcUdNTUl2SlZSZUQ1WGxydWdyQkY5cmMtOVFHWi1NWVFOQVhNWVJ2QW50SHB5QjMwS3VFQXVUalIzTUQ1ZER4VkQyT2xkMlZZUGlUV0FqS0M4T09tQy05RlduZUJqd1dqQ2dDcnFZYW9RdHQ3ZjBPcjA?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "672daf5e5e92366a4130",
+      "title": "COP31, 2026'da yeni bir sıcaklık rekoru kırılacağı uyarıları eşliğinde başladı",
+      "url": "https://www.bbc.com/turkce/articles/cwz0v0rv0lvxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T15:45:39+03:00",
+      "source": "BBC Türkçe",
+      "summary": "Türkiye ve Avustralya eş başkanlığında düzenlenen Birleşmiş Milletler iklim konferansı COP31, 9 Kasım'da Antalya'da başladı. Konferansın açılış gününde bilim insanları 2026'nın kayıtlara geçen en sıcak yıl olacağı uyarısını paylaştı.",
+      "summaryLimited": true,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59c2/live/b03ccd10-dc38-11f1-95cf-a38331e6cb4b.jpg",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cwz0v0rv0lvxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "c4f04514ee10e1978def",
+      "title": "Azmi Karamahmutoğlu’ndan AK Parti’ye sert soru: “Genel Merkez’de kaç tane Fatma Betül Sayan Kaya var?”",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFd4ZVZzWlJQbUJsRGNXd1VISVZZVVZSOUpWbzhFMVJpTmVtY3pYOFU4Y1hBOGdJcl9XM0pNQ2RTcVluWmxmQl9mNG1RZjRETVd1ZUdxcFZiUjdRN1oxUER1RTBQNFoxdW1PUi1JSG10V1pyT2pHY29jV09wTFhST25UbEtHNmFRSkRWSjJ0UnVrQjA4UXA0QmROZ1RwTjZ1eXk5ckpWNDVlZHJ1T3MwLTNNWDJoVFFh?oc=5",
+      "published": "2026-11-09T15:41:31+03:00",
+      "source": "Haberton",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haberton",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFd4ZVZzWlJQbUJsRGNXd1VISVZZVVZSOUpWbzhFMVJpTmVtY3pYOFU4Y1hBOGdJcl9XM0pNQ2RTcVluWmxmQl9mNG1RZjRETVd1ZUdxcFZiUjdRN1oxUER1RTBQNFoxdW1PUi1JSG10V1pyT2pHY29jV09wTFhST25UbEtHNmFRSkRWSjJ0UnVrQjA4UXA0QmROZ1RwTjZ1eXk5ckpWNDVlZHJ1T3MwLTNNWDJoVFFh?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "e8c72fa67469ded08243",
+      "title": "CHP GRUP BAŞKANI ÖZTRAK'IN BASIN TOPLANTSI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zQk43MTFsTVdCdGxGVDN3U2Y4bkFfTEYxYTZrS0Radnd4S082UHVTWEd6M29SS093VjhNbm5ud1NMR1JxSGhXTnhWWGJvMDFaT05IMnNScmVTa2RUd1p0aXVPaWZPdkdVTGV2TGFtdk5aX01XZGlGT0oyRQ?oc=5",
+      "published": "2026-11-09T15:30:06+03:00",
+      "source": "TBMM",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "TBMM",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zQk43MTFsTVdCdGxGVDN3U2Y4bkFfTEYxYTZrS0Radnd4S082UHVTWEd6M29SS093VjhNbm5ud1NMR1JxSGhXTnhWWGJvMDFaT05IMnNScmVTa2RUd1p0aXVPaWZPdkdVTGV2TGFtdk5aX01XZGlGT0oyRQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "ebed42c808dab55b7929",
+      "title": "Erdoğan’dan Azerbaycan, Terörsüz Türkiye ve Dış Politikaya İlişkin Önemli Mesajlar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDBCNUNWUjg3dkwtU2NXZWF5N045X25wSG14TVI2REs4RENRT1BRRXhfN3ZGZTJ4NWpIYzBCYUcyVTJTdXdGNTZWUmx4aEtJd3dsTVpkYXRfSlc2OHRKVkk4MXlKM1padGl1TnFLWWNYSFRLYTRfeE1hdW9nTWtBaTFuOTFwblhzcVdoQm9aZEpnSzhocV9wdDlObm1pc1FfalVOcHRwQ1ZGVWg3bnJF0gGvAUFVX3lxTE1MMEI1Q1ZSODd2TC1TY1dlYXk3TjlfbnBIbXhNUjZESzhEQ1FPUFFFeF83dkZlMng1akhjMEJhRzJVMlN1d0Y1NlZSbHhoS0l3d2xNWmRhdF9KVzY4dEpWSTgxeUozWlp0aXVOcUtZY1hIVEthNF94TWF1b2dNa0FpMW45MXBuWHNxV2hCb1pkSmdLOGhxX3B0OU5ubWlzUV9qVU5wdHBDVkZVaDduckU?oc=5",
+      "published": "2026-11-09T15:26:00+03:00",
+      "source": "NNC Haber",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "NNC Haber",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDBCNUNWUjg3dkwtU2NXZWF5N045X25wSG14TVI2REs4RENRT1BRRXhfN3ZGZTJ4NWpIYzBCYUcyVTJTdXdGNTZWUmx4aEtJd3dsTVpkYXRfSlc2OHRKVkk4MXlKM1padGl1TnFLWWNYSFRLYTRfeE1hdW9nTWtBaTFuOTFwblhzcVdoQm9aZEpnSzhocV9wdDlObm1pc1FfalVOcHRwQ1ZGVWg3bnJF0gGvAUFVX3lxTE1MMEI1Q1ZSODd2TC1TY1dlYXk3TjlfbnBIbXhNUjZESzhEQ1FPUFFFeF83dkZlMng1akhjMEJhRzJVMlN1d0Y1NlZSbHhoS0l3d2xNWmRhdF9KVzY4dEpWSTgxeUozWlp0aXVOcUtZY1hIVEthNF94TWF1b2dNa0FpMW45MXBuWHNxV2hCb1pkSmdLOGhxX3B0OU5ubWlzUV9qVU5wdHBDVkZVaDduckU?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d847c94741930ae72dd7",
+      "title": "Karamahmutoğlu: Soygunun kozmik odasını karanlıkta mı bırakmak istiyorsunuz?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWozT05YNjJiaHhUMlVlZFROVUJ6bWctTjBDMzlRWlpWdjQxOEhEbDBqek5RQVhMb0d6ZXhLX1NGSzhYbHN4Zjd1QWxuQjY3VF9mWEpLZU9EemhONEZFMHh6cEtIQS1ta3pCQkdVVVdJX2hsaWV0OG5XOGdGVUJ1ZmZLVWwzU2QzZjNpVmYxVmlxS0R3dHVmVXFtY2ZiTzROOHc?oc=5",
+      "published": "2026-11-09T15:16:17+03:00",
+      "source": "hibya.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "hibya.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWozT05YNjJiaHhUMlVlZFROVUJ6bWctTjBDMzlRWlpWdjQxOEhEbDBqek5RQVhMb0d6ZXhLX1NGSzhYbHN4Zjd1QWxuQjY3VF9mWEpLZU9EemhONEZFMHh6cEtIQS1ta3pCQkdVVVdJX2hsaWV0OG5XOGdGVUJ1ZmZLVWwzU2QzZjNpVmYxVmlxS0R3dHVmVXFtY2ZiTzROOHc?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "2a81f482f6c1b5828837",
+      "title": "Zafer Partisi'nden fon skandalına sert çıkış: Soygunun kozmik odasını karanlıkta bırakarak ummadığınız isimleri koruma altına mı almak istiyorsunuz?",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTEtHSFR5dnFvT3B5OENFY09TbjRhVDE0dkFMUzMwcTBqMHBWN1Q4SWRlZmgtcTBIaTZWbVRmUm92dTBwd1hFcEtpYmxUSHJGWG94YUQtVWJQZFAtangzNTgwc3c4Y3JVdkVqMURYbXRJMW9ULVdHUDQzc3FBN2kzbjAzM1V0NHdaTmVPcEVqSUQ3RGJFSUN4aDI1U0MtUllfTm9HUnVINzVQSEpEVlN3MWFlWU9ESUVTSzB1TkNkR1NEc003RklWNEt1Y1BsVWFHMjBtM1cyMmVlNnh0TUdjMWd0SDFscU1PUGJFVVU4WlpaaUZ4VGtPR09WWVVhckk?oc=5",
+      "published": "2026-11-09T15:09:38+03:00",
+      "source": "Haberiniz",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "Haberiniz",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTEtHSFR5dnFvT3B5OENFY09TbjRhVDE0dkFMUzMwcTBqMHBWN1Q4SWRlZmgtcTBIaTZWbVRmUm92dTBwd1hFcEtpYmxUSHJGWG94YUQtVWJQZFAtangzNTgwc3c4Y3JVdkVqMURYbXRJMW9ULVdHUDQzc3FBN2kzbjAzM1V0NHdaTmVPcEVqSUQ3RGJFSUN4aDI1U0MtUllfTm9HUnVINzVQSEpEVlN3MWFlWU9ESUVTSzB1TkNkR1NEc003RklWNEt1Y1BsVWFHMjBtM1cyMmVlNnh0TUdjMWd0SDFscU1PUGJFVVU4WlpaaUZ4VGtPR09WWVVhckk?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d23f2da905eedf1bd0c8",
+      "title": "Bozkurt’tan Zafer Partisi’ne eleştiri: “Adı Zafer, tablosu hezimet!”",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVBSmd3c2FHTlJNS3E2NWptdjFkYnZsbnhWZXhGaE1ORl9KSk1rajRFYmt6MlpKMnJxTnVhbEdQNlJpNUtOQ1VKdWdaVjRuSFAwM3BOMzNsSk9sZXE5SEFqZjFaek50SVZ2azZhazQyOHpuOXg3NnVmZHA4Q3pNc2I1TmFDakxwUGhzQVlrOE1nd3QwRWNfUDJ3MNIBqwFBVV95cUxONG81aWVkb0RjbGo4Rk4wLWk4cXpJZURsbDJFaThacVU2VXdodENUSjNXOFdabUZ0X1VFNElBX3kwS2VZTUJJLUNkNW9VT0NpVUtGRW56YTBrR1pIei1ucXN0cVc3ekdyV1E0enZwY25kNWh0aVJGWmx4NTFYQm80UWJpdFU0Q3p1QjhHamZiaHQ2U1k0R0NiNXQxb0xNbWhReEU4Y3FSUEpua3c?oc=5",
+      "published": "2026-11-09T14:13:18+03:00",
+      "source": "ajansaydin.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "zafer"
+      ],
+      "sources": [
+        {
+          "name": "ajansaydin.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVBSmd3c2FHTlJNS3E2NWptdjFkYnZsbnhWZXhGaE1ORl9KSk1rajRFYmt6MlpKMnJxTnVhbEdQNlJpNUtOQ1VKdWdaVjRuSFAwM3BOMzNsSk9sZXE5SEFqZjFaek50SVZ2azZhazQyOHpuOXg3NnVmZHA4Q3pNc2I1TmFDakxwUGhzQVlrOE1nd3QwRWNfUDJ3MNIBqwFBVV95cUxONG81aWVkb0RjbGo4Rk4wLWk4cXpJZURsbDJFaThacVU2VXdodENUSjNXOFdabUZ0X1VFNElBX3kwS2VZTUJJLUNkNW9VT0NpVUtGRW56YTBrR1pIei1ucXN0cVc3ekdyV1E0enZwY25kNWh0aVJGWmx4NTFYQm80UWJpdFU0Q3p1QjhHamZiaHQ2U1k0R0NiNXQxb0xNbWhReEU4Y3FSUEpua3c?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "27cfd681dcba6804797e",
+      "title": "Cumhurbaşkanı Erdoğan: \"(ABD-İran savaşı) Amerikan Başkanı Sayın Trump’la bu konuları görüştüm ve çekincelerimizi anlattım. Barış ve diplomasi kapısını açmak için devreye girmeye hazır olduğumuzu taraflara ilettik. Umarız sağduyu hakim olur ve bölge ol",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPY0tMQUhPaXZQN2dPU3JwejBnM0Rfa3BUeGduOVpjUHExUGJHbl9BOHVzX1A1d2NRUU1jNUFMam5sTDRLTUFwVndNZW5SYWRGRjJRY2lXSFZwLXlSV19JS0FDREtCWVdRNnpzVU1WcURxLU00T0tDdktqSkNLZ0RNUVd5WHNQMTZFZ0RtVll4RnNMWWJvaGVGQUVmSWVJV2xJZlFuLW1zRG9mVFRTcm9rNjFMNUNscVFqdXdKc2JSUWpoZko1YjU3Nk51SWxsay1OdnloNndHZjE0eVFjdko3aXY3anZxdUtGOUJsbTBSemlheWtiUm1KTDlZdjZMclV6aHdCYTdQVkJFU0dzdmZ5QkoxNHhWS2tISm9zXy1zYklMZmh4Z3FLWUxMb3hiUmhHQTlmcy1qSGxZUQ?oc=5",
+      "published": "2026-11-09T14:07:21+03:00",
+      "source": "herkesduysun.com",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "dunya"
+      ],
+      "sources": [
+        {
+          "name": "herkesduysun.com",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPY0tMQUhPaXZQN2dPU3JwejBnM0Rfa3BUeGduOVpjUHExUGJHbl9BOHVzX1A1d2NRUU1jNUFMam5sTDRLTUFwVndNZW5SYWRGRjJRY2lXSFZwLXlSV19JS0FDREtCWVdRNnpzVU1WcURxLU00T0tDdktqSkNLZ0RNUVd5WHNQMTZFZ0RtVll4RnNMWWJvaGVGQUVmSWVJV2xJZlFuLW1zRG9mVFRTcm9rNjFMNUNscVFqdXdKc2JSUWpoZko1YjU3Nk51SWxsay1OdnloNndHZjE0eVFjdko3aXY3anZxdUtGOUJsbTBSemlheWtiUm1KTDlZdjZMclV6aHdCYTdQVkJFU0dzdmZ5QkoxNHhWS2tISm9zXy1zYklMZmh4Z3FLWUxMb3hiUmhHQTlmcy1qSGxZUQ?oc=5"
+        }
+      ],
+      "xUrl": null
+    },
+    {
+      "id": "d2f4a4dcec973177dc8f",
+      "title": "Bakan Kacır duyurdu: Türkiye ile Çin arasında teknoloji ortaklığı hamlesi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlfTXBKeEZjSDJMX1FWUV9nYk5kUkJTbW5Ec1g4MzlQb1pkR0w1dHplUkJnVGV3ZW9fbDdEb2tUemxpckZ1NDloc1BaZTVRMU5BaE5IZTd2LW81OUkxYm9UeWRwNmJVamJZTHVIQ2I5Rk8xbHpHUm4zdjBUbXp6MEdaMHF6UWNvVjFNQU83WUpHR19ySGNHVmozXzhJU2tKelpQa05SZDl0LVVBV1pDaGJDWGY?oc=5",
+      "published": "2026-11-09T13:50:50+03:00",
+      "source": "Yeni Şafak",
+      "summary": "",
+      "summaryLimited": true,
+      "image": "",
+      "categories": [
+        "turkiye"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlfTXBKeEZjSDJMX1FWUV9nYk5kUkJTbW5Ec1g4MzlQb1pkR0w1dHplUkJnVGV3ZW9fbDdEb2tUemxpckZ1NDloc1BaZTVRMU5BaE5IZTd2LW81OUkxYm9UeWRwNmJVamJZTHVIQ2I5Rk8xbHpHUm4zdjBUbXp6MEdaMHF6UWNvVjFNQU83WUpHR19ySGNHVmozXzhJU2tKelpQa05SZDl0LVVBV1pDaGJDWGY?oc=5"
+        }
+      ],
+      "xUrl": null
+    }
+  ],
+  "xEnabled": false
+}
